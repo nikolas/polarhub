@@ -1,46 +1,38 @@
-<footer class="footer">
+<footer class="footer text-muted">
 
-  <div class="wrapper">
+    <div class="container">
+        <p class="footer-text">
+            Photos courtesy of <a href="https://www.flickr.com/photos/gsfc/" target="_blank">NASA Goddard</a> and PoLAR Partners.
+        </p>
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        <div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                <ul class="social-media-list">
+                    <li>
+                        <a href="https://twitter.com/PoLAR_CCEP">
+                            <img height="32" width="32" src="{{ "assets/img/twitter.png" | relative_url }}">
+                            <span class="username">PoLAR_CCEP</span>
+                    </li>
+                    <li>
+                        <a href="https://www.facebook.com/PolarPartnership/">
+                            <img height="24" width="24" src="{{ "assets/img/facebook.png" | relative_url }}">
+                            <span class="username">PoLAR Partnership</span>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/channel/UCGtVofgAhrD6tw1e2WAD7BQ">
+                            <img height="24" width="34" src="{{ "assets/img/youtube.png" | relative_url }}">
+                            <span class="username">PoLAR Partnership</span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-      </div>
+            <div class="footer-col footer-col-3">
+                <p>{{ site.description | escape }}</p>
+            </div>
+        </div>
 
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
-      </div>
     </div>
-
-  </div>
 
 </footer>

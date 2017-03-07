@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Mission and Vision
+permalink: /mission-and-vision/
 ---
 
 The world's polar regions are changing rapidly.  What implications do

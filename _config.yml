@@ -24,7 +24,6 @@ description: > # this means to ignore newlines until "baseurl:"
   and other innovative tools developed by the PoLAR Partnership.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thepolarhub.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: PoLAR_CCEP
 
 # Build settings
 markdown: kramdown

@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Projects
+permalink: /projects/
 ---
 
 In addition to the PoLAR Hub website, our partners are developing a
