@@ -1,0 +1,13 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+nav {
+    background-image: url('img/aurora.jpg');
+    color: white;
+}
+
+.page-content {
+    margin-top: 20px;
+}
