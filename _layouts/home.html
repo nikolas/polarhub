@@ -5,21 +5,23 @@ layout: default
 <div class="home">
 
     {{ content }}
-    
-  <h1 class="page-heading">Posts</h1>
-  
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+    <div class="pull-left">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/mqF1dpLrE40" frameborder="0" allowfullscreen></iframe>
+    </div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <div class="pull-right">
+        <a class="twitter-timeline" data-width="520" data-height="460" href="https://twitter.com/PoLAR_CCEP">Tweets by PoLAR_CCEP</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    </div>
+
+    <div style="text-align: center;">
+        <p>
+            Follow us on <a href="https://twitter.com/PoLAR_CCEP" target="_blank">Twitter</a> and
+            <a href="https://www.facebook.com/PolarPartnership" target="_blank">Facebook</a>.
+        </p>
+        <p>
+            Photos courtesy of <a href="https://www.flickr.com/photos/gsfc/" target="_blank">NASA Goddard</a> and PoLAR Partners.
+        </p>
+    </div>
 
 </div>
