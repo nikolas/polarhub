@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Supplementary Projects
+permalink: /supplementary-projects/
 ---
 
 In addition to the PoLAR Hub website, our partners are developing a
