@@ -4,6 +4,10 @@ title: Mission and Vision
 permalink: /mission-and-vision/
 ---
 
+<div class="embed-responsive embed-responsive-16by9">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mqF1dpLrE40" allowfullscreen></iframe>
+</div>
+
 The world's polar regions are changing rapidly.  What implications do
 these changes have for polar ecosystems and communities?  How do they
 compare to changes of the past?  Do changes in the Arctic and

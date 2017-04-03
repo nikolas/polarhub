@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Project Research and Evaluation
+permalink: /project-research-and-evaluation/
 ---
 
 Below are publications and presentations produced by the PoLAR Partners.
