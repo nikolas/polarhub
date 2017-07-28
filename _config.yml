@@ -33,3 +33,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+collections:
+  resources:
+    output: true
