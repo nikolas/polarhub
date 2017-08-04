@@ -1,4 +1,7 @@
 ---
 layout: resource
 title: "Our Changing Homelands, Our Changing Lives (2010)"
+author: "Arctic Health Research Network - Yukon and Vuntut Gwitchin Government"
 ---
+
+The land that has sustained the Vuntut Gwitchin, People of the Lakes, in the Far North of Yukon, Canada, is undergoing rapid changes from global warming. This video takes you on a journey from nearly 20 years ago to the present with a community whose very survival is at risk.

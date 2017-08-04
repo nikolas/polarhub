@@ -38,14 +38,23 @@ class Resource:
 
     def __init__(self, obj):
         self.title = obj.get('Title')
+        self.author = obj.get('Author') or obj.get('Author / Institution')
+        self.body = obj.get('Body')
 
     def to_md(self):
-        return '\n'.join([
-            '---',
-            'layout: resource',
-            'title: "{}"'.format(self.title),
-            '---',
-        ])
+        s = '---\nlayout: resource\n'
+        if self.title:
+            s += 'title: "{}"\n'.format(
+                self.title.replace('"', '\\"'))
+        if self.author:
+            s += 'author: "{}"\n'.format(
+                self.author.replace('"', '\\"'))
+        s += '---\n'
+
+        if self.body:
+            s += '\n{}'.format(self.body)
+
+        return s
 
 
 def main():

@@ -1,4 +1,7 @@
 ---
 layout: resource
 title: "Climate Momentum Simulation"
+author: "Climate interactive"
 ---
+
+This Climate Momentum Sim allows users to quickly compare the resulting sea level rise, temperature change, atmospheric CO2, and global CO2 emissions from six predetermined scenarios.

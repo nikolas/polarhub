@@ -1,4 +1,7 @@
 ---
 layout: resource
 title: "Earth Exploration Toolbook: (Chapter) Is Greenland Melting? "
+author: "Betsy Youngman (Phoenix Country Day School), David Smith (GLOBE), & Russell Huff (CIRES)"
 ---
+
+The Earth Exploration Toolbook (EET) is a collection of online Earth system science activities developed by teams of scientists and educators. This chapter uses GIS to to explore data that characterize the dynamic Greenland Ice Sheet.  Students in grades 7 - 14 can explore map layers that represent ice sheet thickness, weather station locations, and annual melt extents of the ice sheet. They view images of the working conditions that Arctic scientists must endure to collect their data, and learn how sensors on satellites are used to gather information from an area as large as Greenland. Students, gain knowledge about scientists' methods for measuring the glacial ice flowing from Greenland's ice sheet to the coasts, and examine that data to learn how fast the ice is moving.
