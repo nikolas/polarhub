@@ -1,4 +1,4 @@
 ---
 layout: resource
-title: "Flood Mapping"
+title: "Climate Wizard"
 ---
