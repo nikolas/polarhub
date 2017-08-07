@@ -4,6 +4,7 @@ title: "EducaPoles "
 author: "International Polar Foundation"
 resource_link: "http://www.educapoles.org/"
 resource_type: "Video/Visualization, Curriculum, Website"
+climate_topics: "Mitigation"
 ---
 
 EducaPoles is one of IPF's four websites. It aims to make young people and their teachers more aware of the importance and the fragile nature of the polar environments, and to enable them to learn about climate changes from this angle.

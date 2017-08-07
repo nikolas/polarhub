@@ -4,6 +4,7 @@ title: "Landsat Image Mosaic of Antarctica: NASA site"
 author: "NASA"
 resource_link: "http://lima.nasa.gov/"
 resource_type: "Online Interactive Tool, Video/Visualization, Images, Website"
+climate_topics: "Impacts of Climate Change"
 ---
 
 The Landsat Image Mosaic of Antarctica (LIMA) is the first-ever true-color high-resolution satellite view of the Antarctic continent enabling everyone to see Antarctica as it appears in real life. The primary purpose of this site is to provide materials that will allow for both students and educators to explore the continent through the "Antarctic Mysteries" section.

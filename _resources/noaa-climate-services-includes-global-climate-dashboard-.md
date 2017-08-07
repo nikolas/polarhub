@@ -4,6 +4,7 @@ title: "NOAA Climate Services (includes global climate dashboard) "
 author: "NOAA"
 resource_link: "http://www.climate.gov/"
 resource_type: "Online Interactive Tool, Video/Visualization, Curriculum, Website, Data"
+climate_topics: "Climate System, Causes of Climate Change, Impacts of Climate Change, Mitigation, Adaptation"
 ---
 
 NOAA Climate.gov provides science and information for a climate-smart nation.  Americans’ health, security, and economic well-being are closely linked to climate and weather.  People want and need information to help them make decisions on how to manage climate-related risks and opportunities they face.

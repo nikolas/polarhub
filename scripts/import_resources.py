@@ -42,6 +42,7 @@ class Resource:
         self.body = obj.get('Body')
         self.resource_link = obj.get('Resource Link')
         self.resource_type = obj.get('Resource Type')
+        self.climate_topics = obj.get('Climate Topics')
 
     def to_md(self):
         s = '---\nlayout: resource\n'
@@ -57,6 +58,9 @@ class Resource:
         if self.resource_type:
             s += 'resource_type: "{}"\n'.format(
                 self.resource_type.replace('"', '\\"'))
+        if self.climate_topics:
+            s += 'climate_topics: "{}"\n'.format(
+                self.climate_topics.replace('"', '\\"'))
         s += '---\n'
 
         if self.body:
