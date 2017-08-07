@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import csv
+import json
 import re
 
 
@@ -43,6 +44,15 @@ class Resource:
         self.resource_link = obj.get('Resource Link')
         self.resource_type = obj.get('Resource Type')
         self.climate_topics = obj.get('Climate Topics')
+
+    def to_dict(self):
+        return {
+            'title': self.title,
+            'author': self.author,
+            'body': self.body,
+            'resource_link': self.resource_link,
+            'climate_topics': self.climate_topics.split(','),
+        }
 
     def to_md(self):
         s = '---\nlayout: resource\n'
@@ -89,6 +99,13 @@ def main():
             out.write(r.to_md())
             out.close()
             print('Wrote to {}'.format(filename))
+
+        j = json.dumps([r.to_dict() for r in resources])
+        filename = './resources.json'
+        out = open(filename, 'w')
+        out.write(j)
+        out.close()
+        print('Wrote to {}'.format(filename))
 
 
 if __name__ == '__main__':
