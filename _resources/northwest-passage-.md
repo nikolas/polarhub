@@ -2,6 +2,7 @@
 layout: resource
 title: "Northwest Passage "
 author: "On the Cutting Edge, SERC"
+resource_link: "http://serc.carleton.edu/sp/library/google_earth/examples/northwest_passage.html"
 ---
 
 Climate change is a prominent topic in the media, and its effects are expected to present major challenges for human society. Students need to become aware of the issues connected with this phenomenon.

@@ -2,6 +2,7 @@
 layout: resource
 title: "Climate Science Info Zone"
 author: "The Science Museum"
+resource_link: "http://www.sciencemuseum.org.uk/ClimateChanging/ClimateScienceInfoZone/?keywords..."
 ---
 
 Our three-year series of thought-provoking events, exhibitions and installations means whatever you're thinking, the Science Museum is the place to come and explore your climate changing world...

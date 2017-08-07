@@ -2,6 +2,7 @@
 layout: resource
 title: "Polar Husky"
 author: "Go North!"
+resource_link: "http://www.polarhusky.com/explore/"
 ---
 
 Free to the entire K-12 community, Polar Husky programming uses the allure of exciting annul dogsled expeditions in the and Arctic research as the vehicle through which teachers and students gain an understanding of natural and social sciences.  

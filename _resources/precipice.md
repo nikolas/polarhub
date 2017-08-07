@@ -2,6 +2,7 @@
 layout: resource
 title: "Precipice"
 author: " Centre for Digital Media"
+resource_link: "http://www.precipice.altereddreams.net/"
 ---
 
 Precipice is a simulation of some future global warming scenarios. The simulation intends to make vivid some of the future scenarios developed by Global EESE. The experience takes place in a 3D environment where the player is presented with a familiar scene set in the present day and a future scene set in 2032.

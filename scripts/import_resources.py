@@ -40,6 +40,7 @@ class Resource:
         self.title = obj.get('Title')
         self.author = obj.get('Author') or obj.get('Author / Institution')
         self.body = obj.get('Body')
+        self.resource_link = obj.get('Resource Link')
 
     def to_md(self):
         s = '---\nlayout: resource\n'
@@ -49,6 +50,9 @@ class Resource:
         if self.author:
             s += 'author: "{}"\n'.format(
                 self.author.replace('"', '\\"'))
+        if self.resource_link:
+            s += 'resource_link: "{}"\n'.format(
+                self.resource_link.replace('"', '\\"'))
         s += '---\n'
 
         if self.body:
