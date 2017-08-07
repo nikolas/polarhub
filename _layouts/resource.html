@@ -6,7 +6,8 @@ layout: default
     <header class="resource-header">
         <h1 class="resource-title">{{ page.title | escape }}</h1>
         <div class="resource-author">{{ page.author | escape }}</div>
-        <a class="resource-link" href="{{ page.link | escape }}">{{ page.link | escape }}</a>
+        <a class="resource-link" href="{{ page.resource_link | escape }}">{{ page.resource_link | escape }}</a>
+        <div class="resource-type">{{ page.resource_type | escape }}</div>
     </header>
 
     <div class="resource-content">

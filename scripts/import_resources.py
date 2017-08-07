@@ -38,14 +38,35 @@ class Resource:
 
     def __init__(self, obj):
         self.title = obj.get('Title')
+        self.author = obj.get('Author') or obj.get('Author / Institution')
+        self.body = obj.get('Body')
+        self.resource_link = obj.get('Resource Link')
+        self.resource_type = obj.get('Resource Type')
+        self.climate_topics = obj.get('Climate Topics')
 
     def to_md(self):
-        return '\n'.join([
-            '---',
-            'layout: resource',
-            'title: "{}"'.format(self.title),
-            '---',
-        ])
+        s = '---\nlayout: resource\n'
+        if self.title:
+            s += 'title: "{}"\n'.format(
+                self.title.replace('"', '\\"'))
+        if self.author:
+            s += 'author: "{}"\n'.format(
+                self.author.replace('"', '\\"'))
+        if self.resource_link:
+            s += 'resource_link: "{}"\n'.format(
+                self.resource_link.replace('"', '\\"'))
+        if self.resource_type:
+            s += 'resource_type: "{}"\n'.format(
+                self.resource_type.replace('"', '\\"'))
+        if self.climate_topics:
+            s += 'climate_topics: "{}"\n'.format(
+                self.climate_topics.replace('"', '\\"'))
+        s += '---\n'
+
+        if self.body:
+            s += '\n{}'.format(self.body)
+
+        return s
 
 
 def main():
