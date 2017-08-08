@@ -100,7 +100,10 @@ def main():
             out.close()
             print('Wrote to {}'.format(filename))
 
-        j = json.dumps([r.to_dict() for r in resources])
+        resource_dicts = sorted(
+            [r.to_dict() for r in resources],
+            key=lambda k: k['title'])
+        j = json.dumps(resource_dicts, sort_keys=True)
         filename = './resources.json'
         out = open(filename, 'w')
         out.write(j)
