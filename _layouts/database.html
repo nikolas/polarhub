@@ -1,18 +1,28 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {% include head.html %}
+    {% include head.html %}
 
-  <body>
+    <body>
 
-    {% include header.html %}
+        {% include header.html %}
 
-    <main class="page-content" aria-label="Content">
-      <div class="container">
-      </div>
-    </main>
+        <main class="page-content" aria-label="Content">
+            <div class="container">
+                <div class="form-group">
+                    <label>
+                        Search
+                        <input class="form-control" type="search" id="q">
+                    </label>
+                </div>
+            </div>
+            <div id="search-results"></div>
+        </main>
 
-    {% include footer.html %}
-  </body>
+        {% include footer.html %}
+
+        <script src="{{ "/assets/js/lib/lunr.js" | relative_url }}"></script>
+        <script src="{{ "/assets/js/src/search.js" | relative_url }}"></script>
+    </body>
 
 </html>
