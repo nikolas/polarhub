@@ -1,7 +1,80 @@
 /* eslint-env jquery */
-/* globals lunr */
+/* eslint-env node */
+
+if (typeof require === 'function') {
+    var jsdom = require('jsdom');
+    var JSDOM = jsdom.JSDOM;
+    var window = new JSDOM('<!DOCTYPE html>').window;
+    var $ = require('jquery')(window);
+    var lunr = require('lunr');
+}
 
 (function() {
+    var Search = function(items) {
+        this.results = [];
+        this.data = {};
+        this.index = initializeLunrIndex(items);
+
+        var me = this;
+        items.forEach(function(d) {
+            me.data[d.title] = d;
+        });
+    };
+
+    Search.prototype.doSearch = function() {
+        var q = $.trim($('#q').val());
+
+        var searchParams = [];
+
+        var mainTerm = '';
+        if (q) {
+            mainTerm = '*' + q + '*';
+        }
+
+        if (!q && searchParams.length === 0) {
+            // No search params? Then just show everything.
+            $('#all-objects').show();
+            return false;
+        }
+
+        this.results = this.index.query(function(q) {
+            searchParams.forEach(function(param) {
+                var k = param[0];
+                var v = param[1];
+                if (v) {
+                    q.term(v.toLowerCase(), { fields: [k] });
+                }
+            });
+            if (mainTerm) {
+                q.term(mainTerm.toLowerCase());
+                searchParams.push(mainTerm.toLowerCase());
+            }
+        }).filter(function(result) {
+            return Object.keys(result.matchData.metadata).length ===
+                searchParams.length;
+        });
+
+        var $el = $('#search-results');
+        $el.show();
+        $('#all-objects').hide();
+
+        var me = this;
+        this.results.forEach(function(r) {
+            var d = me.data[r.ref];
+            var href = '/resources/' + slugify(d.title);
+
+            var $result = $(
+                '<div class="search-result">' +
+                    '<a href="' + href + '">' +
+                    d.title +
+                    '</a>' +
+                    '</div>'
+            );
+            $el.append($result);
+        });
+        return false;
+    };
+
     // https://gist.github.com/mathewbyrne/1280286#gistcomment-2005392
     var slugify = function(text) {
         return text.toString().toLowerCase()
@@ -11,12 +84,6 @@
             .replace(/--+/g, '-')          // Replace multiple - with single -
             .replace(/^-+/, '')            // Trim - from start of text
             .replace(/-+$/, '');           // Trim - from end of text
-    };
-
-    var appendWithoutDuplicates = function(array, item) {
-        if (array.indexOf(item) < 0) {
-            array.push(item);
-        }
     };
 
     var initializeLunrIndex = function(items) {
@@ -36,100 +103,32 @@
         return idx;
     };
 
-    var initializeOptions = function(options, $selectEl) {
-        options.forEach(function(e) {
-            $selectEl.append(
-                '<option value="' + e + '">' +
-                    e + '</option>');
-        });
-    };
-
-    // This is the category filter data to be
-    // populated with the JSON.
-    var categories = {
-        dates: [],
-        culturalRegions: [],
-        sources: [],
-        objectUses: []
-    };
-
-    var results = [];
-
-    var data = {};
-    var index;
-    $.getJSON('/resources.json').done(function(items) {
-        index = initializeLunrIndex(items);
-        items.forEach(function(d) {
-            data[d.title] = d;
-        });
-    });
-
-    var doSearch = function() {
-        var q = $.trim($('#q').val());
-
-        var searchParams = [];
-
-        var mainTerm = '';
-        if (q) {
-            mainTerm = '*' + q + '*';
-            searchParams.push(mainTerm);
-        }
-
-        if (searchParams.length === 0) {
-            // No search params? Then just show everything.
-            $('#all-objects').show();
-            return false;
-        }
-
-        results = index.query(function(q) {
-            q.term(mainTerm);
-            searchParams.forEach(function(param) {
-                var k = param[0];
-                var v = param[1];
-                q.term(v, { fields: [k] });
-            });
-        }).filter(function(result) {
-            return Object.keys(result.matchData.metadata).length ===
-                searchParams.length;
-        });
-
-        var $el = $('#search-results');
-        $el.show();
-        $('#all-objects').hide();
-
-        results.forEach(function(r) {
-            var d = data[r.ref];
-            var href = '/resources/' + slugify(d.title);
-
-            var $result = $(
-                '<div class="search-result">' +
-                    '<a href="' + href + '">' +
-                    d.title +
-                    '</a>' +
-                    '</div>'
-            );
-            $el.append($result);
-        });
-        return false;
-    };
-
     var clearSearch = function() {
         $('#search-results').empty();
     };
 
-    $(document).ready(function() {
-        $('#search').click(doSearch);
-        $('#clear-search').click(clearSearch);
-        $('#q').keyup(function() {
-            clearSearch();
-            return doSearch();
-        });
+    if (typeof document === 'object') {
+        $(document).ready(function() {
+            $.getJSON('/resources.json').done(function(items) {
+                var search = new Search(items);
 
-        $('select.dt-date,select.dt-cultural-region,' +
-          'select.dt-source,select.dt-object-use'
-        ).change(function() {
-            clearSearch();
-            return doSearch();
+                $('#clear-search').click(clearSearch);
+                $('#q').keyup(function() {
+                    clearSearch();
+                    return search.doSearch();
+                });
+
+                $('select.dt-date,select.dt-cultural-region,' +
+                  'select.dt-source,select.dt-object-use'
+                ).change(function() {
+                    clearSearch();
+                    return search.doSearch();
+                });
+            });
         });
-    });
+    }
+
+    if (typeof module !== 'undefined') {
+        module.exports = { Search: Search };
+    }
 })();

@@ -32,6 +32,7 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - node_modules
   - vendor
 collections:
   resources:

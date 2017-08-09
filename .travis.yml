@@ -1,4 +1,9 @@
 language: ruby
 rvm:
   - 2.4.1
-script: "bundle exec jekyll build"
+before_install:
+  - nvm install stable
+script:
+  - "bundle exec jekyll build"
+  - make eslint
+  - make jstest
