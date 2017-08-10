@@ -1,0 +1,26 @@
+{
+  "name": "polarhub",
+  "version": "1.0.0",
+  "description": "The PoLAR Hub - website for the Polar Learning and Responding (PoLAR) Climate Change Education Partnership",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha assets/js/tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccnmtl/polarhub.git"
+  },
+  "author": "Nik Nyby",
+  "license": "GPL-3.0+",
+  "bugs": {
+    "url": "https://github.com/ccnmtl/polarhub/issues"
+  },
+  "homepage": "https://github.com/ccnmtl/polarhub#readme",
+  "devDependencies": {
+    "eslint": "^4.4.1",
+    "jquery": "^3.2.1",
+    "jsdom": "^11.1.0",
+    "lunr": "^2.1.2",
+    "mocha": "^3.5.0"
+  }
+}
