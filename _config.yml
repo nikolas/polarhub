@@ -27,7 +27,7 @@ url: "https://thepolarhub.org" # the base hostname & protocol for your site, e.g
 # Build settings
 markdown: kramdown
 theme: minima
-gems:
+plugins:
   - jekyll-feed
 exclude:
   - Gemfile
