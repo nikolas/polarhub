@@ -4,7 +4,8 @@ title: "Plunge"
 author: "Michael Pinsky, Artist"
 resource_link: "http://plungelondon.com/"
 resource_type: "Video/Visualization, Website"
-climate_topics: "Impacts of Climate Change"
+climate_topics:
+  - Impacts of Climate Change
 ---
 
 Plunge, an art+science installation project by Michael Pinsky, imagines a time 1000 years in the future when the effects of runaway climate change have completely transformed the London we know today.  Plunge placed on three monuments in central London. A string of low energy blue LED lights were wrapped around three iconic landmarks in central London, marking a time, 1000 years in the future, when sea level rises have changed the city beyond recognition.

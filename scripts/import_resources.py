@@ -22,6 +22,7 @@ class Resource:
     author = ''
     body = ''
     climate_topics = ''
+    polar_topics = ''
     date_of_issue = ''
     description = ''
     key_personnel = ''
@@ -44,6 +45,7 @@ class Resource:
         self.resource_link = obj.get('Resource Link')
         self.resource_type = obj.get('Resource Type')
         self.climate_topics = obj.get('Climate Topics')
+        self.polar_topics = obj.get('Polar Topics')
 
     def to_dict(self):
         return {
@@ -52,6 +54,7 @@ class Resource:
             'body': self.body,
             'resource_link': self.resource_link,
             'climate_topics': self.climate_topics.split(','),
+            'polar_topics': self.polar_topics.split(','),
         }
 
     def to_md(self):
@@ -68,9 +71,17 @@ class Resource:
         if self.resource_type:
             s += 'resource_type: "{}"\n'.format(
                 self.resource_type.replace('"', '\\"'))
+
         if self.climate_topics:
-            s += 'climate_topics: "{}"\n'.format(
-                self.climate_topics.replace('"', '\\"'))
+            s += 'climate_topics:\n'
+            for topic in self.climate_topics.split(', '):
+                s += '  - {}\n'.format(topic)
+
+        if self.polar_topics:
+            s += 'polar_topics:\n'
+            for topic in self.polar_topics.split(', '):
+                s += '  - {}\n'.format(topic)
+
         s += '---\n'
 
         if self.body:

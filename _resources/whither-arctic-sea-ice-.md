@@ -4,6 +4,11 @@ title: "Whither Arctic Sea Ice?"
 author: "SERC & CIRES"
 resource_link: "http://serc.carleton.edu/eet/seaice/index.html"
 resource_type: "Curriculum, Data"
+polar_topics:
+  - Arctic
+  - Antarctic
+  - Sea Ice
+  - Marine Ecosystem
 ---
 
 This website presents chapters in the Earth Exploration Toolbook and is written to the teacher, generally at the secondary and college levels.  Each activity, or chapter, introduces one or more scientific data sets and analysis tools that enables users to explore some aspect of the Earth system.

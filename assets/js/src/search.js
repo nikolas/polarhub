@@ -21,17 +21,31 @@ if (typeof require === 'function') {
         });
     };
 
-    Search.prototype.doSearch = function() {
-        var q = $.trim($('#q').val());
+    Search.prototype.doSearch = function(params) {
+        var mainTerm = params[0].split(' ').map(function(x) {
+            if (x) {
+                return '*' + x + '*';
+            } else {
+                return x;
+            }
+        });
 
         var searchParams = [];
 
-        var mainTerm = '';
-        if (q) {
-            mainTerm = '*' + q + '*';
+        if (params[1]) {
+            searchParams.push(['climate_topics',  params[1]]);
+        }
+        if (params[2]) {
+            searchParams.push(['polar_topics',  params[2]]);
+        }
+        if (params[3]) {
+            searchParams.push(['resource_type',  params[3]]);
+        }
+        if (params[4]) {
+            searchParams.push(['audience',  params[4]]);
         }
 
-        if (!q && searchParams.length === 0) {
+        if ((mainTerm.length === 0 || !mainTerm[0]) && searchParams.length === 0) {
             // No search params? Then just show everything.
             $('#all-objects').show();
             return false;
@@ -45,10 +59,12 @@ if (typeof require === 'function') {
                     q.term(v.toLowerCase(), { fields: [k] });
                 }
             });
-            if (mainTerm) {
-                q.term(mainTerm.toLowerCase());
-                searchParams.push(mainTerm.toLowerCase());
-            }
+            mainTerm.forEach(function(param) {
+                if (param) {
+                    q.term(param.toLowerCase());
+                    searchParams.push(param.toLowerCase());
+                }
+            });
         }).filter(function(result) {
             return Object.keys(result.matchData.metadata).length ===
                 searchParams.length;
@@ -92,6 +108,7 @@ if (typeof require === 'function') {
             this.field('title');
             this.field('body');
             this.field('climate_topics');
+            this.field('polar_topics');
             this.field('author');
             this.field('resource_link');
 
@@ -115,14 +132,18 @@ if (typeof require === 'function') {
                 $('#clear-search').click(clearSearch);
                 $('#q').keyup(function() {
                     clearSearch();
-                    return search.doSearch();
+                    return search.doSearch([
+                        $.trim($('#q').val())
+                    ]);
                 });
 
                 $('select.dt-date,select.dt-cultural-region,' +
                   'select.dt-source,select.dt-object-use'
                 ).change(function() {
                     clearSearch();
-                    return search.doSearch();
+                    return search.doSearch([
+                        $.trim($('#q').val())
+                    ]);
                 });
             });
         });
