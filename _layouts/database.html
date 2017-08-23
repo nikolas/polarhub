@@ -9,11 +9,27 @@
 
         <main class="page-content" aria-label="Content">
             <div class="container">
-                <div class="form-group">
-                    <label>
-                        Search
-                        <input class="form-control" type="search" id="q">
-                    </label>
+                <div class="row">
+                    <div class="form-group col">
+                        <label>
+                            Search
+                            <input class="form-control" type="search" id="q">
+                        </label>
+                    </div>
+                    <div class="form-group col">
+                        <label for="formClimateTopics">Climate Topics</label>
+                        <select class="form-control"
+                                id="formClimateTopics">
+                            <option value="">All</option>
+                        </select>
+                    </div>
+                    <div class="form-group col">
+                        <label for="formPolarTopics">Polar Topics</label>
+                        <select class="form-control"
+                                id="formPolarTopics">
+                            <option value="">All</option>
+                        </select>
+                    </div>
                 </div>
                 <div id="search-results"></div>
             </div>
