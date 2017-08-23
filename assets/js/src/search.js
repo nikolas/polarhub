@@ -10,6 +10,20 @@ if (typeof require === 'function') {
 }
 
 (function() {
+    var appendWithoutDuplicates = function(array, item) {
+        if (array.indexOf(item) < 0) {
+            array.push(item);
+        }
+    };
+
+    var initializeOptions = function(options, $selectEl) {
+        options.forEach(function(e) {
+            $selectEl.append(
+                '<option value="' + e.replace(/\W/g, '') + '">' +
+                    e + '</option>');
+        });
+    };
+
     var Search = function(items) {
         this.results = [];
         this.data = {};
@@ -127,24 +141,47 @@ if (typeof require === 'function') {
     if (typeof document === 'object') {
         $(document).ready(function() {
             $.getJSON('/resources.json').done(function(items) {
+                var climateTopics = [];
+                var polarTopics = [];
+                items.forEach(function(e) {
+                    e.climate_topics.forEach(function(t) {
+                        if (t) {
+                            appendWithoutDuplicates(climateTopics, $.trim(t));
+                        }
+                    });
+                    e.polar_topics.forEach(function(t) {
+                        if (t) {
+                            appendWithoutDuplicates(polarTopics, $.trim(t));
+                        }
+                    });
+                });
+
+                initializeOptions(
+                    climateTopics.sort(), $('select#formClimateTopics'));
+                initializeOptions(
+                    polarTopics.sort(), $('select#formPolarTopics'));
+
                 var search = new Search(items);
 
                 $('#clear-search').click(clearSearch);
                 $('#q').keyup(function() {
                     clearSearch();
                     return search.doSearch([
-                        $.trim($('#q').val())
+                        $.trim($('#q').val()),
+                        $('select#formClimateTopics').val(),
+                        $('select#formPolarTopics').val()
                     ]);
                 });
 
-                $('select.dt-date,select.dt-cultural-region,' +
-                  'select.dt-source,select.dt-object-use'
-                ).change(function() {
-                    clearSearch();
-                    return search.doSearch([
-                        $.trim($('#q').val())
-                    ]);
-                });
+                $('select#formClimateTopics,select#formPolarTopics')
+                    .change(function() {
+                        clearSearch();
+                        return search.doSearch([
+                            $.trim($('#q').val()),
+                            $('select#formClimateTopics').val(),
+                            $('select#formPolarTopics').val()
+                        ]);
+                    });
             });
         });
     }
