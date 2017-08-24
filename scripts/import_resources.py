@@ -39,17 +39,17 @@ class Resource:
     type_ = ''
 
     def __init__(self, obj):
-        self.title = obj.get('Title')
-        self.author = obj.get('Author') or obj.get('Author / Institution')
-        self.body = obj.get('Body')
-        self.resource_link = obj.get('Resource Link')
-        self.resource_type = obj.get('Resource Type')
-        self.climate_topics = obj.get('Climate Topics')
-        self.polar_topics = obj.get('Polar Topics')
-        self.post_date = obj.get('Post date')
+        self.title = obj.get('Title').strip()
+        self.author = obj.get('Author').strip() or \
+                      obj.get('Author / Institution').strip()
+        self.body = obj.get('Body').strip()
+        self.resource_link = obj.get('Resource Link').strip()
+        self.resource_type = obj.get('Resource Type').strip()
+        self.climate_topics = obj.get('Climate Topics').strip()
+        self.polar_topics = obj.get('Polar Topics').strip()
+        self.post_date = obj.get('Post date').strip()
 
     def to_dict(self):
-        print(self.post_date)
         return {
             'title': self.title,
             'author': self.author,

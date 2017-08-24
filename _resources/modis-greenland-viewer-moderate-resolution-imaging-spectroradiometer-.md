@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: "MODIS Greenland viewer (Moderate Resolution Imaging Spectroradiometer) "
+title: "MODIS Greenland viewer (Moderate Resolution Imaging Spectroradiometer)"
 date: "August 8, 2014 - 2:49pm"
 author: "multiagency science team - NASA satellite"
 resource_link: "http://planet.sr.unh.edu/MOG/"

@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: "Climate Challenge (BBC) "
+title: "Climate Challenge (BBC)"
 date: "August 8, 2014 - 2:49pm"
 author: "Red Redemptions Games -  British Company"
 resource_link: "http://www.bbc.co.uk/sn/hottopics/climatechange/climate_challenge/"

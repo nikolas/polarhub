@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: "Earth Exploration Toolbook: (Chapter) Is Greenland Melting? "
+title: "Earth Exploration Toolbook: (Chapter) Is Greenland Melting?"
 date: "September 10, 2013 - 2:42pm"
 author: "Betsy Youngman (Phoenix Country Day School), David Smith (GLOBE), & Russell Huff (CIRES)"
 resource_link: "http://serc.carleton.edu/eet/greenlandmelt/index.html"

@@ -16,4 +16,4 @@ polar_topics:
   - Temperature
 ---
 
-In this episode, Shane Smith travels to Greenland with climate scientist Jason Box to investigate why the glaciers are melting, and how the resulting rise in sea level will devastate our world sooner than expected. 
+In this episode, Shane Smith travels to Greenland with climate scientist Jason Box to investigate why the glaciers are melting, and how the resulting rise in sea level will devastate our world sooner than expected.
