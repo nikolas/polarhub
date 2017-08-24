@@ -45,8 +45,10 @@ class Resource:
         self.body = obj.get('Body').strip()
         self.resource_link = obj.get('Resource Link').strip()
         self.resource_type = obj.get('Resource Type').strip()
-        self.climate_topics = obj.get('Climate Topics').strip()
-        self.polar_topics = obj.get('Polar Topics').strip()
+        self.climate_topics = [
+            x.strip() for x in obj.get('Climate Topics').split(',')]
+        self.polar_topics = [
+            x.strip() for x in obj.get('Polar Topics').split(',')]
         self.post_date = obj.get('Post date').strip()
 
     def to_dict(self):
@@ -55,8 +57,8 @@ class Resource:
             'author': self.author,
             'body': self.body,
             'resource_link': self.resource_link,
-            'climate_topics': self.climate_topics.split(','),
-            'polar_topics': self.polar_topics.split(','),
+            'climate_topics': self.climate_topics,
+            'polar_topics': self.polar_topics,
             'post_date': self.post_date,
         }
 
@@ -78,14 +80,14 @@ class Resource:
             s += 'resource_type: "{}"\n'.format(
                 self.resource_type.replace('"', '\\"'))
 
-        if self.climate_topics:
+        if self.climate_topics and self.climate_topics[0]:
             s += 'climate_topics:\n'
-            for topic in self.climate_topics.split(', '):
+            for topic in self.climate_topics:
                 s += '  - {}\n'.format(topic)
 
-        if self.polar_topics:
+        if self.polar_topics and self.polar_topics[0]:
             s += 'polar_topics:\n'
-            for topic in self.polar_topics.split(', '):
+            for topic in self.polar_topics:
                 s += '  - {}\n'.format(topic)
 
         s += '---\n'
