@@ -114,7 +114,7 @@ def main():
         resource_dicts = sorted(
             [r.to_dict() for r in resources],
             key=lambda k: k['title'])
-        j = json.dumps(resource_dicts, sort_keys=True)
+        j = json.dumps(resource_dicts, sort_keys=True, indent=4)
         filename = './resources.json'
         out = open(filename, 'w')
         out.write(j)
