@@ -19,4 +19,4 @@ polar_topics:
   - Temperature
 ---
 
-A collection of YouTube videos complied by NASA, which provides information on climate change. Topics include carbon uptake in the environment and how this will change in the future, as well as Earth Minute Videos featuring hand drawn illustrations that provide background information on climate and climate change for children. Also includes a section of videos on talking with climate scientists. 
+A collection of YouTube videos complied by NASA, which provides information on climate change. Topics include carbon uptake in the environment and how this will change in the future, as well as Earth Minute Videos featuring hand drawn illustrations that provide background information on climate and climate change for children. Also includes a section of videos on talking with climate scientists.

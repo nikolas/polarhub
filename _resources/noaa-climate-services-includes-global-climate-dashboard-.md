@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: "NOAA Climate Services (includes global climate dashboard) "
+title: "NOAA Climate Services (includes global climate dashboard)"
 date: "August 8, 2014 - 2:49pm"
 author: "NOAA"
 resource_link: "http://www.climate.gov/"

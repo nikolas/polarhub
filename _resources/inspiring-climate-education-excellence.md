@@ -21,4 +21,4 @@ polar_topics:
   - Temperature
 ---
 
-Inspiring Climate Education Excellence is a collaborative project to increase teachers' knowledge about climate science concepts and best practices for teaching climate change in the classroom. Lead by the Cooperative Institute for Research in Environmental Sciences, the National Science Digital Library, and the GLOBE Project with funding from NASA, this podcast series explores a variety of issues and best practices in climate education. 
+Inspiring Climate Education Excellence is a collaborative project to increase teachers' knowledge about climate science concepts and best practices for teaching climate change in the classroom. Lead by the Cooperative Institute for Research in Environmental Sciences, the National Science Digital Library, and the GLOBE Project with funding from NASA, this podcast series explores a variety of issues and best practices in climate education.

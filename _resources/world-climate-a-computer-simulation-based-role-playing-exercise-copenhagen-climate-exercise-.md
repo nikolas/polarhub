@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: "World Climate: A Computer-Simulation-Based Role-Playing Exercise (Copenhagen Climate Exercise) "
+title: "World Climate: A Computer-Simulation-Based Role-Playing Exercise (Copenhagen Climate Exercise)"
 date: "August 8, 2014 - 2:49pm"
 author: "MIT & Sustainability Institute"
 resource_link: "http://climateinteractive.org/simulations/world-climate"

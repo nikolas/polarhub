@@ -2,7 +2,7 @@
 layout: resource
 title: "Melting Ice, Rising Seas"
 date: "August 8, 2014 - 2:49pm"
-author: "NOAA "
+author: "NOAA"
 resource_link: "http://www.youtube.com/watch?v=VEuEqgdJXHg"
 resource_type: "Video/Visualization, Images"
 climate_topics:

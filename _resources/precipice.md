@@ -2,7 +2,7 @@
 layout: resource
 title: "Precipice"
 date: "September 10, 2013 - 2:42pm"
-author: " Centre for Digital Media"
+author: "Centre for Digital Media"
 resource_link: "http://www.precipice.altereddreams.net/"
 resource_type: "Digital game/Simulation"
 climate_topics:
