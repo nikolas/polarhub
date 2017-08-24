@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "A Tour of the Cryosphere"
+date: "August 8, 2014 - 2:49pm"
 author: "NASA"
 resource_link: "http://svs.gsfc.nasa.gov/vis/a000000/a003100/a003181/index.html"
 resource_type: "Video/Visualization, Images, Data"

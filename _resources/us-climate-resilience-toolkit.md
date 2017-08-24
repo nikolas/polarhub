@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "US Climate Resilience Toolkit"
+date: "February 29, 2016 - 1:23pm"
 author: "Office of Science and Technology Policy and The Council on Environmental Quality"
 resource_link: "https://toolkit.climate.gov/"
 resource_type: "Online Interactive Tool, Images, Website"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Cool It! "
+date: "August 8, 2014 - 2:49pm"
 author: "Union of Concerned Scientists "
 resource_link: "http://www.ucsusa.org/publications/cool-it-card-game/cool-it-climate-change-card..."
 resource_type: "Analog Game/Simulation, Curriculum"

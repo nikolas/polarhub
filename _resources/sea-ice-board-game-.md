@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Sea Ice Board Game "
+date: "August 8, 2014 - 2:49pm"
 author: "Univ of Alaska Fairbanks"
 resource_link: "http://arcticclimatemodeling.org/lessons/acmp/acmp_58_SeaIce_SeaIceBoardGame.pdf"
 resource_type: "Analog Game/Simulation, Images, Curriculum"

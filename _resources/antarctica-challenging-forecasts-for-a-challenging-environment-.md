@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Antarctica: Challenging forecasts for a challenging environment "
+date: "September 10, 2013 - 2:42pm"
 author: "COMET program (passworded site) "
 resource_link: "https://www.meted.ucar.edu/training_module.php?id=271"
 resource_type: "Curriculum"

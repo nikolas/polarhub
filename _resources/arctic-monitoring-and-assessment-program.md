@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Arctic Monitoring and Assessment Program"
+date: "March 28, 2016 - 2:25pm"
 author: "AMAP"
 resource_link: "http://www.amap.no/"
 resource_type: "Video/Visualization, Website, Publication, Data"

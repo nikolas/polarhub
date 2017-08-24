@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Carbon Temperature Model"
+date: "August 8, 2014 - 2:49pm"
 author: "NASA: Challenger Center"
 resource_link: "http://earth4u.challenger.org"
 resource_type: "Online Interactive Tool"

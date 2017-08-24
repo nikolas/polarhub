@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Stop Disasters "
+date: "August 8, 2014 - 2:49pm"
 author: "UN/SDR"
 resource_link: "http://www.stopdisastersgame.org/en/home.html"
 resource_type: "Digital game/Simulation"

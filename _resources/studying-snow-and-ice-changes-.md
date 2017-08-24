@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Studying Snow and Ice Changes "
+date: "August 8, 2014 - 2:49pm"
 author: "NASA"
 resource_link: "http://mynasadata.larc.nasa.gov/?page_id=474%3F&passid=69"
 resource_type: "Online Interactive Tool, Curriculum"

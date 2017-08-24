@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Alaska Native Perspectives on Earth and Climate"
+date: "August 8, 2014 - 2:49pm"
 author: "PBS LearningMedia"
 resource_link: "http://www.teachersdomain.org/special/ean/"
 resource_type: "Online Interactive Tool, Video/Visualization, Curriculum, Website"

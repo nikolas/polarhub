@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Polar Husky"
+date: "September 10, 2013 - 2:42pm"
 author: "Go North!"
 resource_link: "http://www.polarhusky.com/explore/"
 resource_type: "Video/Visualization, Images, Curriculum, Website"

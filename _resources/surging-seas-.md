@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Surging Seas "
+date: "September 10, 2013 - 2:42pm"
 author: "Climate Central"
 resource_link: "http://sealevel.climatecentral.org/"
 resource_type: "Online Interactive Tool, Images, Website, Publication, Data"

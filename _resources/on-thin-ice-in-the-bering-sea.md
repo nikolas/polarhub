@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "On Thin Ice in the Bering Sea"
+date: "August 8, 2014 - 2:49pm"
 author: "WGBH NOVA"
 resource_link: "http://www.pbs.org/wgbh/nova/extremeice/thinice.html"
 resource_type: "Video/Visualization"

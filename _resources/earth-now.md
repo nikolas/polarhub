@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Earth Now"
+date: "March 28, 2016 - 2:29pm"
 author: "NASA"
 resource_link: "https://itunes.apple.com/us/app/earth-now/id494633346?mt=8"
 resource_type: "Online Interactive Tool, Video/Visualization"

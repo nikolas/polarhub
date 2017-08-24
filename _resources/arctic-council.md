@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Arctic Council"
+date: "August 8, 2014 - 2:49pm"
 author: "Arctic Council"
 resource_link: "http://www.arctic-council.org/index.php/en/"
 resource_type: "Video/Visualization, Images, Website, Publication"

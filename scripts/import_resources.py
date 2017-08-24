@@ -46,8 +46,10 @@ class Resource:
         self.resource_type = obj.get('Resource Type')
         self.climate_topics = obj.get('Climate Topics')
         self.polar_topics = obj.get('Polar Topics')
+        self.post_date = obj.get('Post date')
 
     def to_dict(self):
+        print(self.post_date)
         return {
             'title': self.title,
             'author': self.author,
@@ -55,6 +57,7 @@ class Resource:
             'resource_link': self.resource_link,
             'climate_topics': self.climate_topics.split(','),
             'polar_topics': self.polar_topics.split(','),
+            'post_date': self.post_date,
         }
 
     def to_md(self):
@@ -62,6 +65,9 @@ class Resource:
         if self.title:
             s += 'title: "{}"\n'.format(
                 self.title.replace('"', '\\"'))
+        if self.post_date:
+            s += 'date: "{}"\n'.format(
+                self.post_date.replace('"', '\\"'))
         if self.author:
             s += 'author: "{}"\n'.format(
                 self.author.replace('"', '\\"'))

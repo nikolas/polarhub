@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Greenland is Melting (2013)"
+date: "March 28, 2016 - 2:49pm"
 author: "Vice and HBO"
 resource_link: "https://www.youtube.com/watch?v=7Yq-sfWSWLg"
 resource_type: "Video/Visualization"

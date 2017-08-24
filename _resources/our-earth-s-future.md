@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Our Earth's Future"
+date: "May 5, 2016 - 3:59pm"
 author: "American Museum of Natural History, Debra Tillinger"
 resource_link: "https://www.coursera.org/learn/earth-climate-change/"
 resource_type: "Online Interactive Tool"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Arctic Sea Ice Graphs "
+date: "September 10, 2013 - 2:42pm"
 author: "Arctic Sea Ice Blog"
 resource_link: "https://sites.google.com/site/arcticseaicegraphs/"
 resource_type: "Video/Visualization, Images, Data"

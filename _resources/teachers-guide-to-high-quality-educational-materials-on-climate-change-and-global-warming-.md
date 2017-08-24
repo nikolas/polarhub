@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Teachers’ Guide to High Quality Educational Materials on Climate Change and Global Warming "
+date: "August 8, 2014 - 2:49pm"
 author: "Susan Joy Hassol"
 resource_link: "http://hdgc.epp.cmu.edu/teachersguide/teachersguide.htm"
 resource_type: "Curriculum, Website"

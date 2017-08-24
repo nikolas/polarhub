@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Arctic Climate Modeling Program"
+date: "September 10, 2013 - 2:42pm"
 author: "University of Alaska Fairbanks"
 resource_link: "http://www.arcticclimatemodeling.com/index.html"
 resource_type: "Audio, Video/Visualization, Curriculum, Website"

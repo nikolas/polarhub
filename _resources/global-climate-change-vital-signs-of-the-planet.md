@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Global Climate Change: Vital Signs of the Planet"
+date: "August 8, 2014 - 2:49pm"
 author: "NASA"
 resource_link: "http://climate.nasa.gov/index"
 resource_type: "Online Interactive Tool, Video/Visualization, Images, Curriculum, Website, Data"

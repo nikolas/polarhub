@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Arctic: A friend acting strangely "
+date: "September 10, 2013 - 2:42pm"
 author: "Smithsonian Institute"
 resource_link: "http://forces.si.edu/arctic/"
 resource_type: "Online Interactive Tool, Video/Visualization, Curriculum, Website"

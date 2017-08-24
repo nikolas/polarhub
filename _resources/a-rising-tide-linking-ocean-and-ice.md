@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "A Rising Tide - Linking Ocean and Ice"
+date: "August 8, 2014 - 2:49pm"
 author: "Woods Hole Oceanographic Institute"
 resource_link: "http://www.whoi.edu/oceanus/viewArticle.do?id=98309"
 resource_type: "Video/Visualization"

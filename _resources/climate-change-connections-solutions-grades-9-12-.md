@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Change:Connections & Solutions, Grades 9-12 "
+date: "August 8, 2014 - 2:49pm"
 author: "Facing the Future"
 resource_link: "http://www.facingthefuture.org/Curriculum/BuyCurriculum/ClimateChangeGrades912/t..."
 resource_type: "Curriculum, Publication"

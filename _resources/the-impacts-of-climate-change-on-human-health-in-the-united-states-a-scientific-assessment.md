@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "The Impacts of Climate Change on Human Health in the United States: A Scientific Assessment"
+date: "May 5, 2016 - 3:41pm"
 author: "U.S. Global Change Research Program"
 resource_link: "https://health2016.globalchange.gov/"
 resource_type: "Website, Publication"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Modeled Arctic Sea Ice Thickness From 1940 Through 2060"
+date: "August 8, 2014 - 2:49pm"
 author: "NOAA & NASA Goddard"
 resource_link: "http://svs.gsfc.nasa.gov/vis/a000000/a001000/a001075/index.html"
 resource_type: "Video/Visualization, Images, Data"

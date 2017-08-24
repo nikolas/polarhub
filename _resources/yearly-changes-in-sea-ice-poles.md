@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Yearly Changes in Sea Ice @ Poles"
+date: "August 8, 2014 - 2:49pm"
 author: "Windows to the Universe"
 resource_link: "http://www.windows2universe.org/earth/polar/sea_ice/sea_ice_north_animate.html"
 resource_type: "Video/Visualization, Data"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "UNEP/GRID-­‐‑Arendal’s Polar ProgrammeUNEP/GRID-­‐‑Arendal’s Polar ProgrammeUNEP/GRID-­‐‑Arendal’s Polar Programme"
+date: "August 8, 2014 - 2:49pm"
 author: "IPY, multiple science partners"
 resource_link: "http://www.grida.no/polar/"
 resource_type: "Images, Website"

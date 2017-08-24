@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "SCAR- Scientific Committee on Antarctic Research "
+date: "August 8, 2014 - 2:49pm"
 author: "SCAR science community"
 resource_link: "http://www.scar.org/about/capacitybuilding/antarcticeducation/"
 resource_type: "Website"

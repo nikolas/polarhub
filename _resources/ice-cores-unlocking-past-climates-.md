@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Ice Cores: Unlocking Past Climates "
+date: "September 10, 2013 - 2:42pm"
 author: "WOSU Public Media"
 resource_link: "http://wosu.org/2012/education/category/ice-cores-unlocking-past-climates/"
 resource_type: "Video/Visualization, Curriculum, Website, Publication"

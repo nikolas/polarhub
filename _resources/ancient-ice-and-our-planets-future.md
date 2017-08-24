@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Ancient Ice and Our Planets Future"
+date: "August 8, 2014 - 2:49pm"
 author: "WAIS Divide Ice Core Project, National Science Foundation"
 resource_link: "http://www.waisdivide.unh.edu/multimedia/ancient-ice-and-our-planets-future.shtm..."
 resource_type: "Video/Visualization"

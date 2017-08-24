@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Images of Change"
+date: "April 25, 2016 - 12:45pm"
 author: "NASA"
 resource_link: "https://itunes.apple.com/en/app/images-of-change/id710564941?mt=8"
 resource_type: "Online Interactive Tool, Images"

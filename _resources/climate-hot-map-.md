@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Hot Map "
+date: "August 8, 2014 - 2:49pm"
 author: "Union of Concerned Scientists"
 resource_link: "http://www.climatehotmap.org/"
 resource_type: "Online Interactive Tool"

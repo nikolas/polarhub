@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "MODIS Antarctica viewer (Moderate Resolution Imaging Spectroradiometer) "
+date: "August 8, 2014 - 2:49pm"
 author: "multiagency science team - NASA satellite"
 resource_link: "http://planet.sr.unh.edu/MOA/"
 resource_type: "Online Interactive Tool, Images"

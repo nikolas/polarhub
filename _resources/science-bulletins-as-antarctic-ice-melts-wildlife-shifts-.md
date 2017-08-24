@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Science Bulletins: As Antarctic Ice Melts, Wildlife Shifts "
+date: "September 10, 2013 - 2:42pm"
 author: "American Museum of Natural History"
 resource_link: "http://www.youtube.com/watch?v=znGzkbRR3RM"
 resource_type: "Video/Visualization"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "PenguinScience: Understanding Penguin Response to Climate and Ecosystem Change "
+date: "September 10, 2013 - 2:42pm"
 author: "PenguinScience, NSF, NASA"
 resource_link: "http://www.penguinscience.com/index.php"
 resource_type: "Video/Visualization, Images, Website"

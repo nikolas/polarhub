@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Change from Pole to Pole"
+date: "August 8, 2014 - 2:49pm"
 author: "Constible, Sandro & Lee through NSTA"
 resource_link: "http://www.nsta.org/store/product_detail.aspx?id=10.2505/9781933531236"
 resource_type: "Curriculum, Publication"

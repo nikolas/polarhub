@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Earth Exploration Toolbook: (Chapter) Cool Cores Capture Climate Change "
+date: "September 10, 2013 - 2:42pm"
 author: "PenguinScience/ANDRILL"
 resource_link: "http://serc.carleton.edu/eet/cores/index.html"
 resource_type: "Images, Curriculum, Data"

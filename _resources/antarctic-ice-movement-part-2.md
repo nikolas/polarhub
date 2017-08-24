@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Antarctic Ice Movement:  Part 2"
+date: "August 8, 2014 - 2:49pm"
 author: "WGBH Educational Foundation, NOVA, Teachers' Domain"
 resource_link: "http://www.pbslearningmedia.org/resource/ess05.sci.ess.earthsys.icestreams/"
 resource_type: "Video/Visualization"

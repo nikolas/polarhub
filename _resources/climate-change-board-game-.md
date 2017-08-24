@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Change Board Game "
+date: "August 8, 2014 - 2:49pm"
 author: "Claus Holzapfel @ Rutgers"
 resource_link: "http://runewarkbiology.rutgers.edu/Holzapfel%20Lab/Main%20Pages/Whats%20New/Glob..."
 resource_type: "Analog Game/Simulation"

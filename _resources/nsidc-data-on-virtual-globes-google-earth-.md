@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "NSIDC Data on Virtual Globes: Google Earth "
+date: "August 8, 2014 - 2:49pm"
 author: "NSIDC"
 resource_link: "http://nsidc.org/data/google_earth/"
 resource_type: "Online Interactive Tool, Images, Data"

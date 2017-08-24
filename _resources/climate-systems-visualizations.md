@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Systems Visualizations"
+date: "March 28, 2016 - 2:35pm"
 author: "National Center for Atmospheric Research"
 resource_link: "https://www.vets.ucar.edu/vg/categories/climate.shtml"
 resource_type: "Video/Visualization, Images"

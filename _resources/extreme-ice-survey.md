@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Extreme Ice Survey"
+date: "August 8, 2014 - 2:49pm"
 author: "James Balog"
 resource_link: "http://extremeicesurvey.org/"
 resource_type: "Video/Visualization, Images, Website"

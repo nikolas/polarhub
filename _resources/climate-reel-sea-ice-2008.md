@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Reel: Sea Ice 2008"
+date: "September 10, 2013 - 2:42pm"
 author: "NASA"
 resource_link: "http://climate.nasa.gov/climate_reel/SeaIce2008640360"
 resource_type: "Video/Visualization, Data"

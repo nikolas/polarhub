@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Dynamic Climate Change Simulator"
+date: "August 8, 2014 - 2:49pm"
 author: "Carnegie Mellon"
 resource_link: "http://cmu.flintbox.com/public/project/4743/"
 resource_type: "Digital game/Simulation"

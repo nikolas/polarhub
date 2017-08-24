@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Our Changing Homelands, Our Changing Lives (2010)"
+date: "March 28, 2016 - 2:33pm"
 author: "Arctic Health Research Network - Yukon and Vuntut Gwitchin Government"
 resource_link: "https://www.youtube.com/watch?v=zsHQ3tVfzoU"
 resource_type: "Video/Visualization"

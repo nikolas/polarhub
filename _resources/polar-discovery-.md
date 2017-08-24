@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Polar Discovery "
+date: "August 8, 2014 - 2:49pm"
 author: "WHOI"
 resource_link: "http://polardiscovery.whoi.edu/"
 resource_type: "Online Interactive Tool, Video/Visualization, Images, Website"

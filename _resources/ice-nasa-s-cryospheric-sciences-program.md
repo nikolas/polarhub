@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Ice: NASA's Cryospheric Sciences Program"
+date: "August 8, 2014 - 2:49pm"
 author: "NASA"
 resource_link: "http://ice.nasa.gov/"
 resource_type: "Video/Visualization, Images, Website, Data"

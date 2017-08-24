@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "The Climate Bathtub Animation "
+date: "August 8, 2014 - 2:49pm"
 author: "Schlumberger Ltd."
 resource_link: "http://climateinteractive.org/simulations/bathtub"
 resource_type: "Digital game/Simulation"

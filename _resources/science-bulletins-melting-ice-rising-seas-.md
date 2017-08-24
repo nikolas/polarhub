@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Science Bulletins: Melting Ice, Rising Seas "
+date: "August 8, 2014 - 2:49pm"
 author: "AMNH"
 resource_link: "http://www.youtube.com/watch?v=uh8I4L50U_8"
 resource_type: "Video/Visualization"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Eyewitness Documentary of Changes in the Arctic's Climate"
+date: "August 8, 2014 - 2:49pm"
 author: "Smithsonian Institute"
 resource_link: "http://forces.si.edu/arctic/video/eyewitness.html"
 resource_type: "Video/Visualization"

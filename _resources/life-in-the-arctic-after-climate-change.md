@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Life in the Arctic - After Climate Change"
+date: "August 8, 2014 - 2:49pm"
 author: "Woods Hole Oceanist"
 resource_link: "http://www.youtube.com/watch?v=ZA_ntcxOsRk"
 resource_type: "Video/Visualization"

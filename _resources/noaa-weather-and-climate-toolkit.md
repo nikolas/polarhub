@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "NOAA Weather and Climate Toolkit"
+date: "February 29, 2016 - 1:48pm"
 author: "NOAA"
 resource_link: "http://www.ncdc.noaa.gov/wct/"
 resource_type: "Video/Visualization, Images, Website, Data"

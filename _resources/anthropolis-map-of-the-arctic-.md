@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Anthropolis Map of the Arctic "
+date: "September 10, 2013 - 2:42pm"
 author: "Anthropolis Productions, Ltd."
 resource_link: "http://www.athropolis.com/map2.htm"
 resource_type: "Online Interactive Tool, Images"

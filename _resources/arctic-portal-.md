@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Arctic Portal "
+date: "August 8, 2014 - 2:49pm"
 author: "IPY, Northern Forum, University of the Arctic, Arctic Council, IASC"
 resource_link: "http://www.arcticportal.org/"
 resource_type: "Online Interactive Tool, Video/Visualization, Images, Website, Data"

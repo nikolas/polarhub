@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "NOAA Coastal Inundation Toolkit "
+date: "August 8, 2014 - 2:49pm"
 author: "NOAA"
 resource_link: "http://csc.noaa.gov/digitalcoast/inundation/understand/"
 resource_type: "Images, Website"

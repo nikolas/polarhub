@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Venture Arctic "
+date: "August 8, 2014 - 2:49pm"
 author: "Pocketwatch Games"
 resource_link: "http://www.pocketwatchgames.com/c/index.php/fullgames/venture-arctic"
 resource_type: "Digital game/Simulation"

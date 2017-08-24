@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "3rd National Climate Assessment"
+date: "February 29, 2016 - 1:58pm"
 author: "U.S. Global Change Research Program"
 resource_link: "http://nca2014.globalchange.gov/"
 resource_type: "Online Interactive Tool, Images, Website, Publication, Data"

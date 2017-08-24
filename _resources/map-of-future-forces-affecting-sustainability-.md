@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Map of Future Forces Affecting Sustainability "
+date: "August 8, 2014 - 2:49pm"
 author: "IFTF/GEMI"
 resource_link: "http://www.gemi.org/sustainabilitymap/"
 resource_type: "Video/Visualization"

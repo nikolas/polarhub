@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Inuit Observations on Climate Change"
+date: "February 29, 2016 - 1:39pm"
 author: "International Institute for Sustainable Development"
 resource_link: "http://www.iisd.org/library/inuit-observations-climate-change-full-length-versio..."
 resource_type: "Video/Visualization"

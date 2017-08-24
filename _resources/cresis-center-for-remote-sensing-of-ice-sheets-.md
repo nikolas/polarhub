@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "CreSIS - Center for Remote Sensing of Ice Sheets "
+date: "August 8, 2014 - 2:49pm"
 author: "NSF, University of Kansas"
 resource_link: "https://www.cresis.ku.edu/content/education"
 resource_type: "Video/Visualization, Curriculum, Website, Publication, Data"

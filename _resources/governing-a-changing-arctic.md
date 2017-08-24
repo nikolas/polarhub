@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Governing a Changing Arctic"
+date: "May 5, 2016 - 3:43pm"
 author: "Brookings Institute"
 resource_link: "http://www.brookings.edu/research/podcasts/2014/04/governing-a-changing-arctic"
 resource_type: "Audio"

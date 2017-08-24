@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Northwest Passage "
+date: "August 8, 2014 - 2:49pm"
 author: "On the Cutting Edge, SERC"
 resource_link: "http://serc.carleton.edu/sp/library/google_earth/examples/northwest_passage.html"
 resource_type: "Online Interactive Tool, Images, Curriculum"

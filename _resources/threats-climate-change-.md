@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Threats: Climate Change "
+date: "August 8, 2014 - 2:49pm"
 author: "WWF"
 resource_link: "http://worldwildlife.org/threats/climate-change"
 resource_type: "Video/Visualization, Images, Website"

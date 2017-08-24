@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "NASA Albedo animation"
+date: "September 10, 2013 - 2:42pm"
 author: "NASA Goddard"
 resource_link: "http://www.nasa.gov/centers/goddard/mpg/97518main_albedoCU.mpg"
 resource_type: "Video/Visualization"

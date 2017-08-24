@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Chasing Ice"
+date: "April 25, 2016 - 12:44pm"
 author: "James Balog and Ben Cunningham"
 resource_link: "https://itunes.apple.com/au/app/chasing-ice/id579276308?mt=8"
 resource_type: "Online Interactive Tool, Images"

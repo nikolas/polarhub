@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "PETM: Unearthing Ancient Climate Change "
+date: "August 8, 2014 - 2:49pm"
 author: "American Museum of Natural History"
 resource_link: "http://www.youtube.com/watch?v=WEgcu27-kjk"
 resource_type: "Video/Visualization"

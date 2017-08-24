@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Daisyworld "
+date: "August 8, 2014 - 2:49pm"
 author: "Oracle Thinkquest"
 resource_link: "http://library.thinkquest.org/C003763/flash/gaia1.htm"
 resource_type: "Online Interactive Tool"

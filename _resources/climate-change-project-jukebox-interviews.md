@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Change Project Jukebox Interviews"
+date: "September 10, 2013 - 2:42pm"
 author: "Observing Locally, Connecting Globally Project"
 resource_link: "http://jukebox.uaf.edu/ClimateChange/home.html"
 resource_type: "Audio, Images"

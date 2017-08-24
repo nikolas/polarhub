@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate in the Parks"
+date: "March 28, 2016 - 2:46pm"
 author: "Institute at the Golden Gate"
 resource_link: "http://www.parksconservancy.org/assets/conservation/environmental-sustainability..."
 resource_type: "Publication"

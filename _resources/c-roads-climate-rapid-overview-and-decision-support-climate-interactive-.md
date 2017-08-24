@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "C-Roads (Climate Rapid Overview and Decision Support) Climate Interactive "
+date: "August 8, 2014 - 2:49pm"
 author: " Ventana Systems, and MIT developed “C-ROADS”"
 resource_link: "http://climateinteractive.org/simulations/C-ROADS/overview"
 resource_type: "Digital game/Simulation"

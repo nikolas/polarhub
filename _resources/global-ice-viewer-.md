@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Global Ice Viewer "
+date: "September 10, 2013 - 2:42pm"
 author: "NASA"
 resource_link: "http://www.nasa.gov/externalflash/globaliceviewer/"
 resource_type: "Online Interactive Tool"

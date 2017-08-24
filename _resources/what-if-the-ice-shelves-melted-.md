@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "What If the Ice Shelves Melted?"
+date: "August 8, 2014 - 2:49pm"
 author: "ANDRILL"
 resource_link: "http://www.andrill.org/flexhibit/flexhibit/materials/activities/Activity5B-WhatI..."
 resource_type: "Curriculum"

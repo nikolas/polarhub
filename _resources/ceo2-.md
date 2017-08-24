@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "CEO2 "
+date: "August 8, 2014 - 2:49pm"
 author: "WWF Allianz"
 resource_link: "http://knowledge.allianz.com/ceo2/en.html"
 resource_type: "Digital game/Simulation"

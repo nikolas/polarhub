@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Strategic Management of Resources in Times of Change (SMARTIC)"
+date: "July 29, 2016 - 12:42pm"
 author: "Stephanie Pfirman, PoLAR Partnership "
 resource_link: "SMARTIC Role Play Simulation"
 resource_type: "Analog Game/Simulation"

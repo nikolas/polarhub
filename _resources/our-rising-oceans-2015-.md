@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Our Rising Oceans (2015)"
+date: "March 28, 2016 - 2:47pm"
 author: "Vice and HBO"
 resource_link: "https://www.youtube.com/watch?v=Kp6_sDiup6U"
 resource_type: "Video/Visualization"

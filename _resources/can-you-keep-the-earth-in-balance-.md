@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Can you keep the Earth in Balance? "
+date: "August 8, 2014 - 2:49pm"
 author: "National Geographic"
 resource_link: "http://channel.nationalgeographic.com/channel/content/earth-the-biography/intera..."
 resource_type: "Digital game/Simulation, Video/Visualization"

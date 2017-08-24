@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "EducaPoles "
+date: "August 8, 2014 - 2:49pm"
 author: "International Polar Foundation"
 resource_link: "http://www.educapoles.org/"
 resource_type: "Video/Visualization, Curriculum, Website"

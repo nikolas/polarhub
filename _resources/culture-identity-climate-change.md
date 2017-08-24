@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Culture, Identity & Climate Change"
+date: "August 8, 2014 - 2:49pm"
 author: "Taking it Global Magazine"
 resource_link: "http://www.tigweb.org/youth-media/magazine/index.html?method=issue3"
 resource_type: "Images, Publication"

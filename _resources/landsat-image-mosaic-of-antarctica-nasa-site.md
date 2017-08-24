@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Landsat Image Mosaic of Antarctica: NASA site"
+date: "August 8, 2014 - 2:49pm"
 author: "NASA"
 resource_link: "http://lima.nasa.gov/"
 resource_type: "Online Interactive Tool, Video/Visualization, Images, Website"

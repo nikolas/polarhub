@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Thin Ice"
+date: "May 5, 2016 - 3:55pm"
 author: "Simon Lamb,  The Tindall Foundation, Climate Change Institute , Andrill, New Zealand Antarctic Research Institute"
 resource_link: "http://thiniceclimate.org/"
 resource_type: "Video/Visualization"

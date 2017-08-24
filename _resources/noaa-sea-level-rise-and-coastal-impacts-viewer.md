@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "NOAA Sea Level Rise and Coastal Impacts Viewer"
+date: "August 8, 2014 - 2:49pm"
 author: "NOAA"
 resource_link: "http://csc.noaa.gov/digitalcoast/tools/slrviewer/"
 resource_type: "Online Interactive Tool, Video/Visualization, Website, Data"

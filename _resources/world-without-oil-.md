@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "World Without Oil "
+date: "August 8, 2014 - 2:49pm"
 author: "Ken Eklund (designer) presented by ITVS - funder Corp for Public Broadcasting"
 resource_link: "http://worldwithoutoil.org/metateachers.htm"
 resource_type: "Digital game/Simulation, Video/Visualization"

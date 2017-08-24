@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "NCSE-NASA Curriculum Module - Seasonality "
+date: "August 8, 2014 - 2:49pm"
 author: "NCSE-NASA"
 resource_link: "http://www.eoearth.org/article/NCSE-NASA_Curriculum_Module_-_Seasonality"
 resource_type: "Images, Curriculum"

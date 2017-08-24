@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "NASA Goddard Scientific Visualization Studio "
+date: "September 10, 2013 - 2:42pm"
 author: "NASA"
 resource_link: "http://svs.gsfc.nasa.gov/Gallery/index.html"
 resource_type: "Video/Visualization, Images, Website"

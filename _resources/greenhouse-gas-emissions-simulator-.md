@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Greenhouse Gas Emissions Simulator "
+date: "September 10, 2013 - 2:42pm"
 author: "MIT Systems Dynamics Group"
 resource_link: "http://scripts.mit.edu/~jsterman/climate/master/"
 resource_type: "Digital game/Simulation, Online Interactive Tool"

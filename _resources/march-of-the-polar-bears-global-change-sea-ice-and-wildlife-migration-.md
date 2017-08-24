@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "March of the Polar Bears: Global Change, Sea Ice, and Wildlife Migration "
+date: "August 8, 2014 - 2:49pm"
 author: "NASA (reviewed CLEAN resource) "
 resource_link: "http://mynasadata.larc.nasa.gov/lesson-plans/1332-2/?page_id=474%3F&passid=90"
 resource_type: "Online Interactive Tool, Curriculum"

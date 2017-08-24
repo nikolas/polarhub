@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Interpreter Resources"
+date: "March 28, 2016 - 2:54pm"
 author: "Climate Interpreter"
 resource_link: "http://climateinterpreter.org/resource"
 resource_type: "Online Interactive Tool, Website"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Stabilization Wedges"
+date: "August 8, 2014 - 2:49pm"
 author: "Princeton U., Ford, BP"
 resource_link: "http://cmi.princeton.edu/wedges/"
 resource_type: "Analog Game/Simulation, Curriculum"

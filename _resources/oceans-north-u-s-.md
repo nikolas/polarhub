@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Oceans North U.S."
+date: "August 8, 2014 - 2:49pm"
 author: "Pew Charitable Trusts"
 resource_link: "http://oceansnorth.org/united-states"
 resource_type: "Audio, Images, Website, Publication"

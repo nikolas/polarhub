@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Polar Frontier Project: real weather forecast maps for the Arctic "
+date: "August 8, 2014 - 2:49pm"
 author: "Byrd Polar Research Center and the Columbus Zoo"
 resource_link: "http://bprc.osu.edu/resources/pfp/"
 resource_type: "Video/Visualization, Images, Curriculum"

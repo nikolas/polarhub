@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Indicators"
+date: "March 28, 2016 - 2:15pm"
 author: "U.S. Global Change Research Program"
 resource_link: "http://www.globalchange.gov/browse/indicators"
 resource_type: "Video/Visualization, Images, Publication, Data"

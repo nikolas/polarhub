@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Winds of Change"
+date: "August 8, 2014 - 2:49pm"
 author: "European Climate Forum"
 resource_link: "http://www.umweltspiele.eu/woc_en.htm"
 resource_type: "Analog Game/Simulation"
