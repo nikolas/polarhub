@@ -140,7 +140,8 @@ if (typeof require === 'function') {
 
     if (typeof document === 'object') {
         $(document).ready(function() {
-            $.getJSON('/resources.json').done(function(items) {
+            var path = window.location.pathname.replace(/database\/$/, '');
+            $.getJSON(path + 'resources.json').done(function(items) {
                 var climateTopics = [];
                 var polarTopics = [];
                 items.forEach(function(e) {
