@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "World Bank Climate Change DataFinder 2.5 "
+date: "August 8, 2014 - 2:49pm"
 author: "The World Bank"
 resource_link: "http://itunes.apple.com/us/app/world-bank-climate-change/id480079609?mt=8"
 resource_type: "Online Interactive Tool, Video/Visualization"

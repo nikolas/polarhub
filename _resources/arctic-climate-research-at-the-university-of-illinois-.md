@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Arctic Climate Research at the University of Illinois "
+date: "August 8, 2014 - 2:49pm"
 author: "University of Illinois"
 resource_link: "http://arctic.atmos.uiuc.edu/"
 resource_type: "Video/Visualization, Images, Website, Data"

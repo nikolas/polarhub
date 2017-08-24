@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Sea Ice Outlook"
+date: "August 8, 2014 - 2:49pm"
 author: "NSF, NOAA, Arcus"
 resource_link: "http://www.arcus.org/search/seaiceoutlook/"
 resource_type: "Website, Data"

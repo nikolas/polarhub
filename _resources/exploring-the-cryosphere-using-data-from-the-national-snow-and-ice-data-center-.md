@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Exploring the Cryosphere Using Data from the National Snow and Ice Data Center "
+date: "September 10, 2013 - 2:42pm"
 author: "Heather Rissler for SERC"
 resource_link: "http://serc.carleton.edu/usingdata/datasheets/NationalSnowIceDC.html"
 resource_type: "Curriculum, Data"

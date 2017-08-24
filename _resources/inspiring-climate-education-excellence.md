@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Inspiring Climate Education Excellence"
+date: "April 25, 2016 - 12:32pm"
 author: "NSDL/CIRES Education Outreach"
 resource_link: "https://itunes.apple.com/us/itunes-u/icee-inspiring-climate-education/id39802618..."
 resource_type: "Audio"

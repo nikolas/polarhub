@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Future of Arctic Sea Ice & Global Impacts "
+date: "September 10, 2013 - 2:42pm"
 author: "NOAA"
 resource_link: "http://www.arctic.noaa.gov/future/"
 resource_type: "Images, Website"

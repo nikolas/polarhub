@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Stories in the Ice "
+date: "August 8, 2014 - 2:49pm"
 author: "PBS & WGBH - based on NOVA's \"Warnings from the ice\""
 resource_link: "http://www.pbs.org/wgbh/warming/stories/       OR use the  PBS Interactive calle..."
 resource_type: "Online Interactive Tool, Images"

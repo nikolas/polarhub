@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Frontier Scientists"
+date: "February 29, 2016 - 1:26pm"
 author: "Frontier Scientists, National Science Foundation, Elizabeth O'Connell"
 resource_link: "http://frontierscientists.com/"
 resource_type: "Digital game/Simulation, Online Interactive Tool, Video/Visualization, Curriculum, Website, Publication"

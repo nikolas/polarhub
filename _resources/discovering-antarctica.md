@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Discovering Antarctica"
+date: "September 10, 2013 - 2:42pm"
 author: "British Antarctic Survey"
 resource_link: "http://www.discoveringantarctica.org.uk/alevel_1_0.html"
 resource_type: "Online Interactive Tool, Images, Curriculum, Website"

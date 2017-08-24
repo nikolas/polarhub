@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Sea Ice for Walrus Outlook(SIWO)"
+date: "August 8, 2014 - 2:49pm"
 author: "ARCUS, NOAA"
 resource_link: "http://www.arcus.org/search/siwo"
 resource_type: "Video/Visualization, Images"

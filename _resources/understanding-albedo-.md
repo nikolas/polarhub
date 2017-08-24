@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Understanding Albedo "
+date: "August 8, 2014 - 2:49pm"
 author: "University of Alaska Fairbanks"
 resource_link: "http://arcticclimatemodeling.org/lessons/acmp/acmp_912_ClimateChange_Understandi..."
 resource_type: "Curriculum"

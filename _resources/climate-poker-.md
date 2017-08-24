@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Poker "
+date: "August 8, 2014 - 2:49pm"
 author: "BeWitched Spiele"
 resource_link: "http://boardgamegeek.com/boardgame/57422/climate-poker"
 resource_type: "Analog Game/Simulation"

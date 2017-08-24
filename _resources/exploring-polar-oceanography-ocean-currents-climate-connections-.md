@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Exploring Polar Oceanography: Ocean Currents & Climate Connections "
+date: "September 10, 2013 - 2:42pm"
 author: "Alan Sills for PBS "
 resource_link: "http://www.pbs.org/newshour/extra/teachers/lessonplans/science/jan-june08/polar_..."
 resource_type: "Images, Curriculum"

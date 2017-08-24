@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Project Jukebox: Alaska Stakeholders & Climate Change "
+date: "September 10, 2013 - 2:42pm"
 author: "IARC, ACCAP, SNRAS, UAF,"
 resource_link: "http://jukebox.uaf.edu/site/stakeholders/"
 resource_type: "Video/Visualization, Website"

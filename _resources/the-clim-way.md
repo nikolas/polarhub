@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "The Clim' Way"
+date: "August 8, 2014 - 2:49pm"
 author: "Part of COP-15 - Multiple international "
 resource_link: "http://climcity.cap-sciences.net/us/index.php"
 resource_type: "Digital game/Simulation"

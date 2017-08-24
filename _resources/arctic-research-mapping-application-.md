@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Arctic Research Mapping Application "
+date: "August 8, 2014 - 2:49pm"
 author: "A.G. Gaylord, A. Kassin, W.F. Manley, R. Cody, M. Dover, R. Score, and C.E. Tweedie,"
 resource_link: "http://www.armap.org/"
 resource_type: "Online Interactive Tool, Data"

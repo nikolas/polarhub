@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Counts "
+date: "August 8, 2014 - 2:49pm"
 author: "Climate Counts"
 resource_link: "https://itunes.apple.com/us/app/climatecounts/id342541675?mt=8"
 resource_type: "Online Interactive Tool"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "The Cryosphere Today"
+date: "August 8, 2014 - 2:49pm"
 author: "Polar Research Group, Univ. of Illinois at Urbana-Champaign"
 resource_link: "http://arctic.atmos.uiuc.edu/cryosphere/"
 resource_type: "Video/Visualization, Images, Website, Data"

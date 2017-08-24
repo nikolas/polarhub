@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Education Week Toolkit"
+date: "February 29, 2016 - 1:33pm"
 author: "Earth Day Network"
 resource_link: "http://www.earthday.org/climateeducationweek/"
 resource_type: "Online Interactive Tool, Video/Visualization, Curriculum, Website"

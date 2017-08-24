@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "VGAS "
+date: "August 8, 2014 - 2:49pm"
 author: "Directorate-General Joint Research Centre"
 resource_link: "http://www.xplora.org/ww/de/pub/myeurope/home/practice/teaching_ideas/vgas.htm"
 resource_type: "Digital game/Simulation"

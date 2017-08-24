@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Change in Greenland"
+date: "April 4, 2016 - 1:29pm"
 author: "Arirang TV"
 resource_link: "https://vimeo.com/84574762"
 resource_type: "Video/Visualization"

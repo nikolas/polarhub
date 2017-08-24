@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Learn More About Climate Change"
+date: "April 25, 2016 - 12:40pm"
 author: "Office of Outreach and Engagement: University of Colorado, Boulder"
 resource_link: "http://learnmoreaboutclimate.colorado.edu/"
 resource_type: "Online Interactive Tool, Video/Visualization, Curriculum, Website, Publication"

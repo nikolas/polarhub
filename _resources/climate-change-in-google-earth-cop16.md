@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Change in Google Earth - COP16"
+date: "March 28, 2016 - 2:42pm"
 author: "Google"
 resource_link: "https://www.google.com/landing/cop16/climatetours.html"
 resource_type: "Online Interactive Tool, Video/Visualization"

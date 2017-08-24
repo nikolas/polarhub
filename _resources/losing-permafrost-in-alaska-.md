@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Losing Permafrost in Alaska "
+date: "August 8, 2014 - 2:49pm"
 author: "Spanner Films & WGBH (not in general Teachers' domain but is in Alaskan Native page)"
 resource_link: "http://www.teachersdomain.org/resource/ean08.sci.ess.watcyc.bakedalaska/"
 resource_type: "Video/Visualization"

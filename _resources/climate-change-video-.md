@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Change (Video)"
+date: "April 25, 2016 - 12:38pm"
 author: "University of California"
 resource_link: "https://itunes.apple.com/us/itunes-u/climate-change-video/id382085466?mt=10"
 resource_type: "Audio, Video/Visualization"

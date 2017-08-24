@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "C-Learn Climate Simulation"
+date: "August 8, 2014 - 2:49pm"
 author: "Climate interactive"
 resource_link: "http://climateinteractive.org/simulations/c-learn/simulation"
 resource_type: "Digital game/Simulation, Online Interactive Tool"

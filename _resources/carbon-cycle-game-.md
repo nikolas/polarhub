@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Carbon Cycle Game "
+date: "August 8, 2014 - 2:49pm"
 author: "Windows2universe"
 resource_link: "http://www.windows2universe.org/teacher_resources/teach_carbongame.html"
 resource_type: "Digital game/Simulation, Online Interactive Tool, Curriculum"

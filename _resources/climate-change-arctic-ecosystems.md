@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Change & Arctic Ecosystems"
+date: "September 10, 2013 - 2:42pm"
 author: "Purdue University"
 resource_link: "http://climate.agry.purdue.edu/climate/ccc/Files/cc_arctic.pdf"
 resource_type: "Video/Visualization, Images, Curriculum, Data"

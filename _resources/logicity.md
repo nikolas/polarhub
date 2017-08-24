@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Logicity"
+date: "September 10, 2013 - 2:42pm"
 author: "The National Energy Foundation, Logicom, and British Gas."
 resource_link: "http://www.nef.org.uk/greenschool/logicity.htm"
 resource_type: "Digital game/Simulation, Website"

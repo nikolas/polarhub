@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Global Warming Effects Map"
+date: "August 8, 2014 - 2:49pm"
 author: "National Geographic"
 resource_link: "http://environment.nationalgeographic.com/environment/global-warming/gw-impacts-..."
 resource_type: "Online Interactive Tool"

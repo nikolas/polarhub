@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "What We Know"
+date: "May 5, 2016 - 3:51pm"
 author: "American Association for the Advancement of Science"
 resource_link: "http://whatweknow.aaas.org/get-the-facts/"
 resource_type: "Online Interactive Tool, Video/Visualization, Website, Publication"

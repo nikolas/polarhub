@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "NCA Education Resouces for the Alaska Region"
+date: "March 28, 2016 - 2:22pm"
 author: "PoLAR Partnership, CLEAN, NCSE, NOAA"
 resource_link: "https://www.climate.gov/teaching/national-climate-assessment-resources-educators..."
 resource_type: "Video/Visualization, Images, Curriculum, Website, Publication, Data"

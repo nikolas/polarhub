@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Mapping Sea Level Rise "
+date: "August 8, 2014 - 2:49pm"
 author: "Univ of Alaska Fairbanks"
 resource_link: "http://arcticclimatemodeling.org/lessons/acmp/acmp_912_ClimateChange_MappingSeaL..."
 resource_type: "Images, Curriculum"

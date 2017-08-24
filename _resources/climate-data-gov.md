@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "climate.data.gov"
+date: "February 29, 2016 - 1:45pm"
 author: "US General Services Administration, Office of Citizen Services and Innovation Technologies"
 resource_link: "http://www.data.gov/climate/"
 resource_type: "Video/Visualization, Images, Website, Data"

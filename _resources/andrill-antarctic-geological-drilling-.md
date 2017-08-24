@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "ANDRILL: Antarctic Geological Drilling "
+date: "August 8, 2014 - 2:49pm"
 author: "multinational collaboration comprised of more than 200 scientists, students, and educators from seven nations (Brazil, Germany, Japan, Italy, New Zealand, Republic of Korea, the United Kingdom, and the United States)"
 resource_link: "http://www.andrill.org/static/index.html"
 resource_type: "Video/Visualization, Curriculum, Website, Publication"

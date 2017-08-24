@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "NCA Education Resources for the Alaska Region"
+date: "August 13, 2014 - 1:07pm"
 author: "PoLAR Partnership, IARC, and NCSE"
 resource_link: "NCA Education Resources for the Alaska Region"
 resource_type: "Online Interactive Tool, Audio, Video/Visualization, Images, Curriculum, Website, Data"

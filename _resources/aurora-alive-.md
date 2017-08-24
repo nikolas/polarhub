@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Aurora Alive "
+date: "August 8, 2014 - 2:49pm"
 author: "Geophysical Insistue, University of Alaska Fairbanks"
 resource_link: "http://www.auroraalive.com/"
 resource_type: "Video/Visualization, Images, Curriculum, Website"

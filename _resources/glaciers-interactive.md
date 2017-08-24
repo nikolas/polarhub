@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Glaciers Interactive"
+date: "September 10, 2013 - 2:42pm"
 author: "Houghton Mifflin Company"
 resource_link: "https://www.as.uky.edu/sites/default/files/elearning/module13swf.swf"
 resource_type: "Online Interactive Tool"

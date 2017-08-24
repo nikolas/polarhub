@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Earth's Energy Cycle: Albedo "
+date: "September 10, 2013 - 2:42pm"
 author: "National Center for Atmospheric Research"
 resource_link: "http://eo.ucar.edu/educators/ClimateDiscovery/ESS_lesson4_10.19.05.pdf"
 resource_type: "Images, Curriculum"

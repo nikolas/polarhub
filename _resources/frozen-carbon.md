@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Frozen Carbon"
+date: "August 8, 2014 - 2:49pm"
 author: "Jonathan Corum, New York Times"
 resource_link: "http://www.nytimes.com/interactive/2011/12/17/science/earth/1217-permafrost.html..."
 resource_type: "Video/Visualization, Data"

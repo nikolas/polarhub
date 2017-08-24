@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Polar Palooza Educators Corner "
+date: "August 8, 2014 - 2:49pm"
 author: "Polar Palooza Educators Corner"
 resource_link: "http://passporttoknowledge.com/polar-palooza/f4/"
 resource_type: "Video/Visualization, Curriculum, Website"

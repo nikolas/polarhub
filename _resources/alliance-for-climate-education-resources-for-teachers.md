@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Alliance for Climate Education - Resources for Teachers"
+date: "February 29, 2016 - 1:30pm"
 author: "Alliance for Climate Education"
 resource_link: "https://acespace.org/teachers"
 resource_type: "Online Interactive Tool, Video/Visualization, Curriculum, Website, Publication"

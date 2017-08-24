@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "UMASS - IPY STEM Connections: Polar Connections"
+date: "August 8, 2014 - 2:49pm"
 author: "UMASS "
 resource_link: "http://umassk12.net/ipy/materials/"
 resource_type: "Video/Visualization, Curriculum, Website"

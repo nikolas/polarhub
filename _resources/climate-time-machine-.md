@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Time Machine "
+date: "September 10, 2013 - 2:42pm"
 author: "NASA"
 resource_link: "http://climate.nasa.gov/ClimateTimeMachine/climateTimeMachine.cfm"
 resource_type: "Online Interactive Tool, Website"

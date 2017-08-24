@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Wandering Wildlife: Tracking Wildlife Movements with Radio Telemetry "
+date: "August 8, 2014 - 2:49pm"
 author: "USGS"
 resource_link: "http://alaska.usgs.gov/science/biology/wandering_wildlife/"
 resource_type: "Online Interactive Tool, Curriculum, Data"

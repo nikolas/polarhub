@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Sea Level: Ice Volume Changes"
+date: "September 10, 2013 - 2:42pm"
 author: "Texas A&M"
 resource_link: "http://oceandrilling.coe.tamu.edu/curriculum/Sea_Level/Ice_Volume/activity.html"
 resource_type: "Video/Visualization, Curriculum"

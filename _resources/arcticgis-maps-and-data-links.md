@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "ArcticGIS: Maps and Data Links"
+date: "September 10, 2013 - 2:42pm"
 author: "Hosted by ARCUS"
 resource_link: "http://www.arcus.org/gis/maps-data/index.html"
 resource_type: "Online Interactive Tool, Video/Visualization, Images, Website, Data"

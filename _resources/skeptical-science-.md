@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Skeptical Science "
+date: "September 10, 2013 - 2:42pm"
 author: "Shine Technology"
 resource_link: "http://www.skepticalscience.com/iphone.shtml"
 resource_type: "Digital game/Simulation, Online Interactive Tool"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "CAMEL, Climate Adaptation, Mitigation, E-Learning "
+date: "August 8, 2014 - 2:49pm"
 author: "NSF, National Council for Science and the Environment, Council of Environmental Deans and Directors, American Indian Higher Education Consortium, The Encyclopedia of Earth"
 resource_link: "http://www.camelclimatechange.org/resources/?topic=66182"
 resource_type: "Digital game/Simulation, Analog Game/Simulation, Video/Visualization, Images, Curriculum, Website, Publication"

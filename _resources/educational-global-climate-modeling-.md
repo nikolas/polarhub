@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Educational Global Climate Modeling "
+date: "August 8, 2014 - 2:49pm"
 author: "EdGCM"
 resource_link: "http://edgcm.columbia.edu/"
 resource_type: "Online Interactive Tool"

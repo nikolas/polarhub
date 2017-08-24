@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Changing Planet: Thawing Permafrost and Methane "
+date: "August 8, 2014 - 2:49pm"
 author: "NBC Learn,UCAR"
 resource_link: "http://www.nbclearn.com/changingplanet/cuecard/52627"
 resource_type: "Video/Visualization"

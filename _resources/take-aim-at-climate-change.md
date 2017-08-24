@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Take Aim at Climate Change"
+date: "August 8, 2014 - 2:49pm"
 author: "Polar Palooza- "
 resource_link: "http://passporttoknowledge.com/polar-palooza/whatyoucando/taacc/"
 resource_type: "Online Interactive Tool, Video/Visualization, Images, Website"

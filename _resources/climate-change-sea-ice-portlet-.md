@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Change & Sea Ice Portlet "
+date: "September 10, 2013 - 2:42pm"
 author: "Arctic Portal"
 resource_link: "http://portlets.arcticportal.org/climate-change-and-sea-ice-portlet"
 resource_type: "Images, Website, Publication"

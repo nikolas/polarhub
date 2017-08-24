@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "EPA Greenhouse Gas Equivalency Calculator "
+date: "August 8, 2014 - 2:49pm"
 author: "EPA"
 resource_link: "http://www.epa.gov/climatechange/ghgemissions/individual.html"
 resource_type: "Online Interactive Tool"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Arctic Ice Age: 1987-2014"
+date: "May 5, 2016 - 3:56pm"
 author: "NOAA"
 resource_link: "https://www.youtube.com/watch?v=FDRnH48LvhQ"
 resource_type: "Video/Visualization"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Momentum Simulation"
+date: "August 8, 2014 - 2:49pm"
 author: "Climate interactive"
 resource_link: "http://climateinteractive.org/simulations/climate-momentum-simulation/climate-mo..."
 resource_type: "Video/Visualization"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Paleoclimateology: The oxygen balance "
+date: "August 8, 2014 - 2:49pm"
 author: "NASA"
 resource_link: "http://earthobservatory.nasa.gov/Features/Paleoclimatology_OxygenBalance/"
 resource_type: "Images, Data"

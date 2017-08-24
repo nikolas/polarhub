@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Whither Arctic Sea Ice?"
+date: "August 8, 2014 - 2:49pm"
 author: "SERC & CIRES"
 resource_link: "http://serc.carleton.edu/eet/seaice/index.html"
 resource_type: "Curriculum, Data"

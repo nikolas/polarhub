@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Plan it Green, the Big Switch"
+date: "September 10, 2013 - 2:42pm"
 author: "National Geographic & CONNECT! Transform the Future"
 resource_link: "http://www.planitgreenlive.com/"
 resource_type: "Digital game/Simulation"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Highwaterline "
+date: "August 8, 2014 - 2:49pm"
 author: "Eve Mosher, Artist"
 resource_link: "http://www.highwaterline.org/"
 resource_type: "Website"

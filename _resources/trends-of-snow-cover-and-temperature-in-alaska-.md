@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Trends of Snow Cover and Temperature in Alaska "
+date: "August 8, 2014 - 2:49pm"
 author: "NASA"
 resource_link: "http://mynasadata.larc.nasa.gov/?page_id=474%3F&passid=19"
 resource_type: "Curriculum"

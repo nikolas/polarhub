@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Change"
+date: "April 25, 2016 - 12:35pm"
 author: "Imperial College London"
 resource_link: "https://itunes.apple.com/us/itunes-u/climate-change/id415328675?mt=10"
 resource_type: "Audio, Video/Visualization"

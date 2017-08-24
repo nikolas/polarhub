@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Polar Sea Ice Blog "
+date: "August 8, 2014 - 2:49pm"
 author: "Neven"
 resource_link: "http://neven1.typepad.com/blog/"
 resource_type: "Images, Website"

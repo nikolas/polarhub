@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Frozen Planet"
+date: "May 5, 2016 - 3:47pm"
 author: "BBC"
 resource_link: "http://www.bbc.co.uk/programmes/b00mfl7n"
 resource_type: "Video/Visualization"

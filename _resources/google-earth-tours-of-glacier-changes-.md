@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Google Earth Tours of Glacier Changes "
+date: "September 10, 2013 - 2:42pm"
 author: "Mauri Pelto of Nichols College"
 resource_link: "http://serc.carleton.edu/NAGTWorkshops/climatechange/activities/21214.html"
 resource_type: "Online Interactive Tool, Curriculum"

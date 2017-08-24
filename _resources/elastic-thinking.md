@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Elastic Thinking"
+date: "August 8, 2014 - 2:49pm"
 author: "Airplane Studios"
 resource_link: "http://www.airplane.co.nz/elasticthinking/main.html"
 resource_type: "Video/Visualization"

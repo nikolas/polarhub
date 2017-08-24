@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "PolarTREC "
+date: "August 8, 2014 - 2:49pm"
 author: "ARCUS, NSF (take out other Polar TREC stuff)"
 resource_link: "http://www.polartrec.com/"
 resource_type: "Online Interactive Tool, Audio, Video/Visualization, Images, Curriculum, Website, Publication"

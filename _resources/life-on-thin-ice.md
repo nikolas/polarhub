@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Life on Thin Ice"
+date: "April 4, 2016 - 1:35pm"
 author: "Jenny E. Ross"
 resource_link: "http://www.lifeonthinice.org/#s=0&mi=1&pt=0&pi=1&p=-1&a=0&at=0"
 resource_type: "Images, Website"

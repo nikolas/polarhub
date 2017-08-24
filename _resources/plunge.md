@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Plunge"
+date: "August 8, 2014 - 2:49pm"
 author: "Michael Pinsky, Artist"
 resource_link: "http://plungelondon.com/"
 resource_type: "Video/Visualization, Website"

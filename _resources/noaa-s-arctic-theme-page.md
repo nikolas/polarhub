@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "NOAA's Arctic Theme Page"
+date: "August 8, 2014 - 2:49pm"
 author: "NOAA"
 resource_link: "http://www.arctic.noaa.gov/index.shtml"
 resource_type: "Video/Visualization, Images, Website, Publication, Data"

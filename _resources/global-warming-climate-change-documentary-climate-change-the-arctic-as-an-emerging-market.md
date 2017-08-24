@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Global Warming | Climate change documentary | Climate Change: The Arctic as an Emerging Market"
+date: "April 4, 2016 - 1:27pm"
 author: "AAAS"
 resource_link: "https://www.youtube.com/watch?v=pKgPHslNz2U"
 resource_type: "Video/Visualization"

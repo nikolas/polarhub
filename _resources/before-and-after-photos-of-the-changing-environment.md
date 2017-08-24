@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Before-and-After Photos of the Changing Environment"
+date: "April 25, 2016 - 12:47pm"
 author: "National Geographic"
 resource_link: "http://news.nationalgeographic.com/2015/12/151229-before-after-earth-features/"
 resource_type: "Online Interactive Tool, Images, Website"

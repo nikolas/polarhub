@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Tour of the Cryosphere "
+date: "August 8, 2014 - 2:49pm"
 author: "University of Alaska Fairbanks"
 resource_link: "http://arcticclimatemodeling.org/lessons/acmp/acmp_912_SeaIceDynamics_TourOfTheC..."
 resource_type: "Video/Visualization, Curriculum"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Business & Climate Change "
+date: "August 8, 2014 - 2:49pm"
 author: "GEMI"
 resource_link: "http://www.gemi.org/businessandclimate/GCC.aspx?niid=3"
 resource_type: "Website"

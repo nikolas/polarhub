@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Effects of Climate Change Webinar: Oceans & Ice "
+date: "September 10, 2013 - 2:42pm"
 author: "NSTA/UCAR/NASA"
 resource_link: "http://learningcenter.nsta.org/products/symposia_seminars/UCAR/webseminar4.aspx"
 resource_type: "Video/Visualization, Images"

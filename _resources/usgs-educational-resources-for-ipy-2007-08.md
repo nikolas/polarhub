@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "USGS Educational Resources for IPY 2007-08"
+date: "August 8, 2014 - 2:49pm"
 author: "USGS"
 resource_link: "http://international.usgs.gov/ipy/resources/"
 resource_type: "Video/Visualization, Images, Website, Data"

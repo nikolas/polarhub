@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Science Info Zone"
+date: "September 10, 2013 - 2:42pm"
 author: "The Science Museum"
 resource_link: "http://www.sciencemuseum.org.uk/ClimateChanging/ClimateScienceInfoZone/?keywords..."
 resource_type: "Digital game/Simulation, Video/Visualization, Images, Curriculum, Website"

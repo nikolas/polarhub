@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Thermal Expansion & Sea Level Rise Activity"
+date: "September 10, 2013 - 2:42pm"
 author: "University of Rhode Island, Office of Marine Programs"
 resource_link: "http://omp.gso.uri.edu/ompweb/doee/teacher/pdf/act16.pdf"
 resource_type: "Images, Curriculum"

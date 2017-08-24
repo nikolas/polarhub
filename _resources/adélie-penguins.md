@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Adélie Penguins"
+date: "August 8, 2014 - 2:49pm"
 author: "NOAA"
 resource_link: "http://oceantoday.noaa.gov/adeliepenguins/"
 resource_type: "Video/Visualization"

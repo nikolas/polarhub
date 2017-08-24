@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Glaciers: Then & Now"
+date: "September 10, 2013 - 2:42pm"
 author: "Teri Eastburn for UCAR Education/adapted for Windows to the Universe by Lisa Gardiner"
 resource_link: "http://www.windows2universe.org/teacher_resources/teach_glacier.html"
 resource_type: "Curriculum"

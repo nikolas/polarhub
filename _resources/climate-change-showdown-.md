@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Climate Change Showdown "
+date: "August 8, 2014 - 2:49pm"
 author: "BC Sustainable Energy Association"
 resource_link: "http://www.bcsea.org/learn/resources-for-educators/climate-change-showdown"
 resource_type: "Analog Game/Simulation, Curriculum"

@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Engaging Students Through Global Issues:Activity-Based Lessons and Action Projects "
+date: "August 8, 2014 - 2:49pm"
 author: "Facing the Future"
 resource_link: "http://facingthefuture.org/Curriculum/EngagingStudentsThroughGlobalIssues/tabid/..."
 resource_type: "Curriculum, Publication"

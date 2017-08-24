@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Reports Library"
+date: "March 28, 2016 - 2:19pm"
 author: "U.S. Global Change Research Program"
 resource_link: "http://www.globalchange.gov/browse/reports"
 resource_type: "Publication, Data"

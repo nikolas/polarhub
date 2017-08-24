@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "InTeGrate: Interdisciplinary Teaching about Earth for a Sustainable Future"
+date: "May 5, 2016 - 4:05pm"
 author: "Carleton College"
 resource_link: "http://serc.carleton.edu/integrate/teaching_materials/climate_fact/index.html"
 resource_type: "Curriculum"

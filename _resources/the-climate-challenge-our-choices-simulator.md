@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "The Climate Challenge: Our Choices Simulator"
+date: "August 8, 2014 - 2:49pm"
 author: "Schlumberger Excellence in Educational Development, Inc."
 resource_link: "http://www.planetseed.com/relatedarticle/climate-challenge-our-choices"
 climate_topics:

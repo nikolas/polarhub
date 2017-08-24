@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Passport to Antarctica "
+date: "August 8, 2014 - 2:49pm"
 author: "Passport to Knowledge"
 resource_link: "http://www.passporttoknowledge.com/antarctica/"
 resource_type: "Curriculum, Website"

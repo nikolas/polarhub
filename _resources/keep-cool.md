@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Keep Cool"
+date: "September 10, 2013 - 2:42pm"
 author: "Gerhard Petschel-Held & Klaus Eisenack"
 resource_link: "http://www.spiel-keep-cool.de/"
 resource_type: "Analog Game/Simulation"

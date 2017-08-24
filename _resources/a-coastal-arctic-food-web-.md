@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "A Coastal Arctic Food Web "
+date: "September 10, 2013 - 2:42pm"
 author: "University of Alaska Fairbanks"
 resource_link: "http://arcticclimatemodeling.org/lessons/acmp/acmp_912_SeaIceDynamics_ACoastalAr..."
 resource_type: "Curriculum"

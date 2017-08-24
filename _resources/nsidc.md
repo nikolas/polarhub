@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "NSIDC"
+date: "August 8, 2014 - 2:49pm"
 author: "NSIDC and multiple contributors"
 resource_link: "http://nsidc.org"
 resource_type: "Images, Website, Publication, Data"

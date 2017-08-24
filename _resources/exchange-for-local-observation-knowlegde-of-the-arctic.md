@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Exchange for Local Observation & Knowlegde of the Arctic"
+date: "September 10, 2013 - 2:42pm"
 author: "ELOKA"
 resource_link: "http://eloka-arctic.org/index.html"
 resource_type: "Images, Website, Data"

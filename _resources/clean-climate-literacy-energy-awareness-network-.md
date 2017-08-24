@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "CLEAN - Climate Literacy & Energy Awareness Network "
+date: "August 8, 2014 - 2:49pm"
 author: "NSF, NOAA, Dept. of Energy"
 resource_link: "http://cleanet.org/"
 resource_type: "Video/Visualization, Curriculum, Website"

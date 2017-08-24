@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Multimedia Gallery"
+date: "March 28, 2016 - 2:12pm"
 author: "U.S. Global Change Research Program"
 resource_link: "http://www.globalchange.gov/browse/multimedia"
 resource_type: "Video/Visualization, Images"

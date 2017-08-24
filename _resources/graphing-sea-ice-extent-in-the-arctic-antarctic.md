@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Graphing Sea Ice Extent in the Arctic & Antarctic"
+date: "September 10, 2013 - 2:42pm"
 author: "Randy Russel for Windows to the Universe "
 resource_link: "http://www.windows2universe.org/teacher_resources/graphs/teach_sea_ice_extent.ht..."
 resource_type: "Online Interactive Tool, Video/Visualization, Curriculum, Data"

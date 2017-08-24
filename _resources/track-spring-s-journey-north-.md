@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "Track Spring's Journey North! "
+date: "August 8, 2014 - 2:49pm"
 author: "Annenberg Learner, Journey North"
 resource_link: "http://www.learner.org/jnorth/"
 resource_type: "Website"

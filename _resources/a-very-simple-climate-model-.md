@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "A Very Simple Climate Model "
+date: "August 8, 2014 - 2:49pm"
 author: "Windows2universe"
 resource_link: "http://www.windows2universe.org/earth/climate/cli_model.html"
 resource_type: "Online Interactive Tool"

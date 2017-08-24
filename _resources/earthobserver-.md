@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "EarthObserver "
+date: "August 8, 2014 - 2:49pm"
 author: "Columbia U."
 resource_link: "http://itunes.apple.com/us/app/earthobserver/id405514799?mt=8"
 resource_type: "Online Interactive Tool"

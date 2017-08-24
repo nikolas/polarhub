@@ -1,6 +1,7 @@
 ---
 layout: resource
 title: "The heat is on "
+date: "August 8, 2014 - 2:49pm"
 author: "CReSIS"
 resource_link: "https://www.cresis.ku.edu/education/k-12/teacher-workshops"
 resource_type: "Video/Visualization, Curriculum, Website"
