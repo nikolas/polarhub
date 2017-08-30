@@ -24,6 +24,15 @@ if (typeof require === 'function') {
         });
     };
 
+    var truncate = function(body) {
+        var length = 320;
+        if (body.length > length) {
+            return body.substring(0, length) + '&hellip;';
+        } else {
+            return body;
+        }
+    };
+
     var Search = function(items) {
         this.results = [];
         this.data = {};
@@ -98,6 +107,7 @@ if (typeof require === 'function') {
                     '<a href="' + href + '">' +
                     d.title +
                     '</a>' +
+                    '<p>' + truncate(d.body) + '</p>' +
                     '</div>'
             );
             $el.append($result);
