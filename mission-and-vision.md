@@ -19,7 +19,7 @@ utilize fascination with shifting polar environments and are geared
 towards lifelong learners.
 
 Supported by a five year grant from the National Science Foundation,
-the PoLAR Partnership is developing a suite of interactive and
+the PoLAR Partnership developed a suite of interactive and
 game-like tools that capitalize on the iconic imagery of the Arctic
 and Antarctic, areas of the globe that are experiencing the most
 dramatic shifts in climate.  Games and game-like activities are
