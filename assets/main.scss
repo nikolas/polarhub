@@ -13,14 +13,13 @@ nav {
 }
 
 .footer {
-    background-color: #f7f7f7;
-    padding: 4rem 0;
+    padding: 2rem 0;
 
     .social-media-list {
         padding-left: 0;
         li {
             display: inline-block;
-            margin-right: 20px;
+            margin-right: 18px;
             img {
                 position: relative;
                 bottom: 4px;
@@ -30,6 +29,12 @@ nav {
 
     .footer-text {
         text-align: center;
-        margin-bottom: 3rem;
+        margin-bottom: 1rem;
+    }
+
+    .logos {
+        img {
+            max-width: 170px;
+        }
     }
 }
