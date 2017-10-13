@@ -6,7 +6,7 @@ permalink: /supplementary-projects/
 
 <h2>Polar Puzzles</h2>
 
-<img="/img/puzzles-screenshot.png">
+<img="/assets/img/puzzles-screenshot.png">
 
 <p>Maps and photographs help connect people visually to remote locations that are undergoing impacts from a changing climate. Puzzles offer a kinesthetic way to interact with and learn about scientific data.  The PoLAR Partnership combined these engaging learning tools and developed a series of puzzle-based activities that highlight the rapid changes taking place in the Arctic, Alaska, and Antarctica.  The puzzle activities can be used (1) in classrooms with groups or teams of students completing a puzzle and sharing what they learned with the rest of the class, or (2) in informal education settings as a facilitated experience to explore polar climate change.</p>
 
@@ -55,6 +55,6 @@ permalink: /supplementary-projects/
 
 <h2>Explore Chaning Arctic Sea Ice</h2>
 
-<img="/img/PolarWeekendStephaniePic.jpg">
+<img="/assets/img/PolarWeekendStephaniePic.jpg">
 
 <p>An activity developed by the PoLAR Partnership's Principal Investiagor, Stephanie Pfirman, provides learners with a hands-on opportunity to explore how Arctic sea ice is shrinking and what it means for species like polar bears and walrus.  Recently updated to include new data, a description of the activity, including background information, a facilitator script and accompanying poster, is available for use in classrooms and at public events via the <a href="http://www.ldeo.columbia.edu/edu/polareducation/PolarWeekend.html">Lamont-Doherty Earth Observatory's Polar Weekend Science Activities page</a>.</p>  
