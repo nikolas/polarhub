@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Mission and Vision
-permalink: /mission-and-vision/
+title: Background
+permalink: /background/
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
