@@ -125,7 +125,7 @@ Jessica Brunacini is an environmental educator specializing in climate change co
 
 <div class="clearfix"></div>
 
-![Maribeth Murray]({{ "/assets/img/partners/MaribethMurray.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Theresa Hernandez]({{ "/assets/img/partners/TheresaHernandez.jpg" | absolute_url }}){:class="rounded float-left partner"}
 
 **Theresa Hernandez**, Assistant Director
 
