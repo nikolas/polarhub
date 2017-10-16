@@ -9,7 +9,7 @@ of experts in climate science, learning theory, and formal and
 informal education.
 
 
-![Stephanie Pfirman]({{ "/assets/img/partners/StephaniePfirman.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Stephanie Pfirman]({{ "/assets/img/partners/StephaniePfirman.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Stephanie Pfirman**, Principal Investigator and Project Lead
 
@@ -19,7 +19,7 @@ Dr. Stephanie L. Pfirman, Professor of Environmental Science and Alena Wels Hirs
 
 <div class="clearfix"></div>
 
-![Joey Lee]({{ "/assets/img/partners/JoeyLee.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Joey Lee]({{ "/assets/img/partners/JoeyLee.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Joey Lee**, Co-PI and Project Lead
 
@@ -29,7 +29,7 @@ Dr. Joey Lee is an Assistant Professor of Technology and Education at Columbia U
 
 <div class="clearfix"></div>
 
-![Peter Schlosser]({{ "/assets/img/partners/PeterSchlosser.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Peter Schlosser]({{ "/assets/img/partners/PeterSchlosser.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Peter Schlosser**, Co-PI
 
@@ -37,7 +37,7 @@ In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the
 
 <div class="clearfix"></div>
 
-![Elena Sparrow]({{ "/assets/img/partners/ElenaSparrow.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Elena Sparrow]({{ "/assets/img/partners/ElenaSparrow.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Elena Sparrow**, Co-PI
 
@@ -45,7 +45,7 @@ In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the
 
 <div class="clearfix"></div>
 
-![Robert Steiner]({{ "/assets/img/partners/RobertSteiner.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Robert Steiner]({{ "/assets/img/partners/RobertSteiner.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Robert Steiner**, Co-PI and Project Lead
 
@@ -53,7 +53,7 @@ In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the
 
 <div class="clearfix"></div>
 
-![Ken Eklund]({{ "/assets/img/partners/KenEklund.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Ken Eklund]({{ "/assets/img/partners/KenEklund.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Ken Eklund**, Project Lead
 
@@ -61,7 +61,7 @@ In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the
 
 <div class="clearfix"></div>
 
-![Maribeth Murray]({{ "/assets/img/partners/MaribethMurray.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Maribeth Murray]({{ "/assets/img/partners/MaribethMurray.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Maribeth Murray**, Project Lead
 
@@ -69,7 +69,7 @@ In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the
 
 <div class="clearfix"></div>
 
-![Ben Orlove]({{ "/assets/img/partners/BenOrlove.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Ben Orlove]({{ "/assets/img/partners/BenOrlove.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Ben Orlove**, Project Lead
 
@@ -77,7 +77,7 @@ Dr. Ben Orlove, an anthropologist, is one of the four co-directors of the Center
 
 <div class="clearfix"></div>
 
-![Margie Turrin]({{ "/assets/img/partners/MargieTurrin.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Margie Turrin]({{ "/assets/img/partners/MargieTurrin.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Margie Turrin**, Project Lead
 
@@ -87,7 +87,7 @@ Margie Turrin is Education Coordinator at Columbia University's Lamont-Doherty E
 
 <div class="clearfix"></div>
 
-![Robin Bell]({{ "/assets/img/partners/RobinBell.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Robin Bell]({{ "/assets/img/partners/RobinBell.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Robin Bell**, Partner
 
@@ -97,7 +97,7 @@ Dr. Robin E. Bell is the Palisades Geophysical Institute Lamont Research Profess
 
 <div class="clearfix"></div>
 
-![Malinda Chase]({{ "/assets/img/partners/MalindaChase_thumb.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Malinda Chase]({{ "/assets/img/partners/MalindaChase_thumb.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Malinda Chase**, Partner
 
@@ -107,7 +107,7 @@ Malinda Chase, originally of Anvik, is the daughter of Rudy Chase, from Anvik, a
 
 <div class="clearfix"></div>
 
-![Lawrence Hamilton]({{ "/assets/img/partners/hamilton.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Lawrence Hamilton]({{ "/assets/img/partners/hamilton.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Lawrence Hamilton**, Partner
 
@@ -117,7 +117,7 @@ Dr. Lawrence (Larry) Hamilton is a professor of sociology at the University of N
 
 <div class="clearfix"></div>
 
-![Jessica Brunacini]({{ "/assets/img/partners/JessicaBrunacini.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Jessica Brunacini]({{ "/assets/img/partners/JessicaBrunacini.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Jessica Brunacini**, Assistant Director
 
@@ -125,7 +125,7 @@ Jessica Brunacini is an environmental educator specializing in climate change co
 
 <div class="clearfix"></div>
 
-![Theresa Hernandez]({{ "/assets/img/partners/TheresaHernandez.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Theresa Hernandez]({{ "/assets/img/partners/TheresaHernandez.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Theresa Hernandez**, Assistant Director
 
@@ -133,7 +133,7 @@ Theresa Hernandez is the Assistant Director at the Columbia Climate Center where
 
 <div class="clearfix"></div>
 
-![Elizabeth Bachrach]({{ "/assets/img/partners/ElizabethBachrach.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Elizabeth Bachrach]({{ "/assets/img/partners/ElizabethBachrach.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Elizabeth Bachrach**, External Evaluator
 
@@ -141,7 +141,7 @@ Dr. Elizabeth Bachrach is a Senior Research Associate with Goodman Resource Grou
 
 <div class="clearfix"></div>
 
-![Annie Quinney]({{ "/assets/img/partners/quinney.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Annie Quinney]({{ "/assets/img/partners/quinney.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Annie Quinney**, Post-Doc
 
@@ -151,7 +151,7 @@ Annie Quinney has a background in paleoclimatic reconstruction using fossil soil
 
 <div class="clearfix"></div>
 
-![Lisa Zaval]({{ "/assets/img/partners/zaval.jpg" | absolute_url }}){:class="rounded float-left partner"}
+![Lisa Zaval]({{ "/assets/img/partners/zaval.jpg" | relative_url }}){:class="rounded float-left partner"}
 
 **Lisa Zaval**, Post-Doc
 
