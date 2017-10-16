@@ -35,5 +35,7 @@ exclude:
   - node_modules
   - vendor
 collections:
+  news_items:
+    output: true
   resources:
     output: true

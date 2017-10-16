@@ -1,0 +1,23 @@
+---
+layout: news_item
+title: "PoLAR Climate Change Education Partnership Receives $5.6 Million Grant"
+author: "Theresa Hernandez"
+date: "August 17, 2012"
+description: "One of six recipients of the CCEP Phase II Award."
+---
+
+(Original posting on the Earth Institute’s State of the Planet Blog)
+
+The Columbia Climate Center will receive one of six Climate Change Education Partnership-Phase II (CCEP-II) program awards from the National Science Foundation (NSF).
+
+The CCEP-II program will provide $5.6 million in funding over the next five years to the Polar Learning and Responding: PoLAR Climate Change Education Partnership led by Professor Stephanie Pfirman and the Columbia Climate Center with partners from Barnard College, Teachers College, The American Museum of Natural History, University of Alaska Fairbanks, University of New Hampshire, and World Without Oil creator Ken Eklund. PoLAR had previously been awarded a $1.2M grant from NSF as part of CCEP Phase I funding to build partnerships and engage in strategic planning for Phase II. With the funding provided by the Phase II award, PoLAR will initiate full-scale implementation of a suite of activities that focus on the public’s fascination with the changing poles to engage adult learners in interactive and game-like educational approaches to climate change education.
+
+The PoLAR vision uses novel educational methods, which Phase I demonstration activities and learning research show can motivate self discovery, exploration and better understanding of complex material. PoLAR will look at incorporating these tools into both informal and formal educational settings in an aim to produce transformative development in climate change education.  In Phase II, PoLAR will further research into the efficacy of various approaches and platforms, including current and emerging technologies, based on scientific evidence, learning theory, and education practice as well as with consultation from leaders in the gaming industry, Games for Change.
+
+Our focus on the polar regions capitalizes on the iconic imagery of the Arctic and Antarctic regions, which have become emblematic of environmental changes for the public at large.  Focusing on the poles also leads to discussion of broader impacts as these rapidly changing regions have global consequences, specifically pertaining to sea level rise.
+
+As a communications hub for polar climate change, the PoLAR website will be used as an interface for our suite of activities and projects as well as a dissemination point for news and events. The website will leverage existing resources such as Climate Adaptation and Mitigation E-Learning (CAMEL) as well as the Climate Literacy & Energy Awareness Network (CLEAN). PoLAR has and will continue to engage diverse communities through catalytic partnerships and professional development of and public outreach to stakeholder communities such as online teacher training in conjunction with the American Museum of Natural History (AMNH), Alaskan Native elders and community leaders through culturally responsive camps in collaboration with the Association of Interior Native Educators (AINE), and radio programs in multiple languages.
+
+The CCEP program is a one-time, dedicated NSF effort to establish a coordinated national network of regionally- or thematically-based partnerships devoted to increasing the adoption of effective, high quality educational programs and resources related to the science of climate change and its impacts.  The CCEP portfolio encompasses a major interdisciplinary research and development effort designed to promote deeper understanding of, and engagement with, climate system science and the impacts of climate change on natural and human systems.   The vision of this program is a scientifically literate society that can effectively weigh the evidence regarding global climate change as it confronts the challenges ahead, while developing the innovative scientific and technical workforce to advance our knowledge of human-climate interactions and develop approaches for a sustainable, prosperous future. Each CCEP is required to incorporate innovative collaborations among expertise of climate scientists, learning scientists, and education practitioners in either formal or informal learning environments to research, design, and test new models and strategies for effective teaching and learning about climate science.  With its focus on interdisciplinary approaches and transformative scales of impact, the CCEP program occupies a unique and complementary niche in the portfolio of Federal investments related to climate science education and workforce development.
+
+For more information about the NSF CCEP-II Program, please visit the NSF website.

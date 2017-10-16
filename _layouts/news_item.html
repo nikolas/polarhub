@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article class="news-item">
+
+    <header class="news-item-header">
+        <h1 class="news-item-title">{{ page.title | escape }}</h1>
+        <div class="news-item-author">{{ page.author | escape }}</div>
+    </header>
+
+    <div class="news-item-content">
+        {{ content }}
+    </div>
+
+</article>
