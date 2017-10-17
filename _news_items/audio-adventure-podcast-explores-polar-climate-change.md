@@ -4,6 +4,7 @@ title: "Audio Adventure Podcast Explores Polar Climate Change"
 author: "Theresa Bakker"
 date: "May 8, 2014"
 description: "PoLAR Voices Debuts Episode 1 Plus Extended Expert Interview"
+image: "/assets/img/news-items/PoLAR%20Voice%20image.png"
 ---
 
 (Originally posted on University of Alaska Fairbanks News)

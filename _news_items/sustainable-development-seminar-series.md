@@ -4,6 +4,7 @@ title: "Sustainable Development Seminar Series: A New Record Low in Arctic Sea I
 author: "Cassie Xu"
 date: "October 12, 2012"
 description: "PoLAR Partners discuss the implications of a rapidly changing Arctic."
+image: "/assets/img/news-items/TPH_NASAimage_ArcticOcean_0.jpg"
 ---
 
 (Original posting on the Earth Institute’s State of the Planet Blog)

@@ -4,6 +4,7 @@ title: "PoLAR Partners Selected to Present at Alaska Math & Science Conference"
 author: "Jessica Brunacini"
 date: "September 18, 2013"
 description: "Sessions will focus on innovative classroom tools and professional development."
+image: "/assets/img/news-items/Alaska%20From%20Above.jpg"
 ---
 
 The PoLAR Partnership is happy to announce that we have been selected to present at the upcoming Alaska Math and Science Conference.  The conference serves as an opportunity for local teachers and administrators to learn about innovative educational approaches for bringing STEM into their districts, schools, and classrooms.  The theme of this year’s meeting in Anchorage is “Changing Climates: Tracking Trends,” and includes a special focus on climate change research.  Co-PI Elena Sparrow and Partner Margie Turrin will lead four sessions highlighting the educational games, activities, and other novel tools developed by PoLAR as well as opportunities for professional development.

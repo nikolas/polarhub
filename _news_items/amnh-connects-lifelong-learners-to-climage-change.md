@@ -4,6 +4,7 @@ title: "AMNH Connects Lifelong Learners to Climate Change"
 date: "December 15, 2014"
 author: "Jessica Brunacini"
 description: "PoLAR stipends offer opportunities to teachers"
+image: "/assets/img/news-items/AMNH_1Day_PI-StephaniePfirman.jpg"
 ---
 
 The American Museum of Natural History's online teacher professional development course on climate change explores the science of climate change, with a special emphasis on the important role played by the polar regions.  In addition to gaining an understanding of how the climate system works, middle and high school teachers learn about valuable resources, tools, and activities that can be implemented in their classrooms to support climate change literacy.  Teachers also contribute lesson plans to a curriculum repository.

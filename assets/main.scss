@@ -43,3 +43,17 @@ img.partner {
     width: 100px;
     margin-right: 20px;
 }
+
+.media>img {
+    max-width: 140px;
+}
+
+.media {
+    margin-bottom: 1em;
+}
+
+img.news-header-image {
+    margin-left: 0.5em;
+    max-width: 600px;
+    max-height: 500px;
+}

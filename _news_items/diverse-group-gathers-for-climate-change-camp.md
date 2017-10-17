@@ -4,6 +4,7 @@ title: "Diverse Group Gathers for Climate Change Camp"
 author: "Malinda Chase, Elena Sparrow, and Jessica Brunacini"
 date: "September 10, 2014"
 description: "Participants discuss impacts on the land and local culture"
+image: "/assets/img/news-items/Signs%20of%20the%20Land%20-Best%20Group%20Photo%5B5%5D_0.jpg"
 ---
 
 (This posting originally appeared on the Doyon Foundation blog)
