@@ -4,6 +4,7 @@ title: "Signs of the Land: Reaching Arctic Communities Facing Climate Change"
 author: "Elena Sparrow"
 date: "June 17, 2014"
 description: "A Camp Academy by and for Alaska Natives"
+image: "/assets/img/news-items/Photo%201.jpg"
 ---
 
 *A partnership project between the Association of Interior Native Educators, the University of Alaska Fairbanks International Arctic Research Center, Doyon Foundation, and the Gwich’in Steering Committee*

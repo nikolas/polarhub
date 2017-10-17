@@ -4,6 +4,7 @@ title: "Join us for a Climate Game Jam in NYC!"
 author: "Jessica Brunacini"
 date: "January 21, 2015"
 description: "October 2nd & 3rd at Barnard College"
+image: "/assets/img/news-items/Screen%20Shot%202016-02-29%20at%203.30.44%20PM.png"
 ---
 
 Interested in innovative approaches to communicating climate change? Want to collaboratively develop fun and educational games for social impact?

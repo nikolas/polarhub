@@ -3,6 +3,7 @@ layout: news_item
 title: "Polar Puzzles"
 date: "February 2, 2016"
 description: "Learn about the changing poles, piece by piece."
+image: "/assets/img/news-items/Screen%20Shot%202016-02-03%20at%2011.47.07%20AM.png"
 ---
 
 Maps and photographs help connect people visually to remote locations that are undergoing impacts from a changing climate. Puzzles offer a kinesthetic way to interact with and learn about scientific data.  The PoLAR Partnership combined these engaging learning tools and developed a series of puzzle-based activities that highlight the rapid changes taking place in the Arctic, Alaska, and Antarctica.  The puzzle activities can be used (1) in classrooms with groups or teams of students completing a puzzle and sharing what they learned with the rest of the class, or (2) in informal education settings as a facilitated experience to explore polar climate change.

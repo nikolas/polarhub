@@ -4,6 +4,7 @@ title: "PoLAR Heads to Alaska!"
 author: "Jessica Brunacini"
 date: "December 4, 2013"
 description: "Math and science teachers enjoy hands-on testing of resources."
+image: "/assets/img/news-items/IMG_5948.jpg"
 ---
 
 From declining sea ice to thawing permafrost to stronger coastal storms, Alaska is at the forefront of polar climate change.  Recognizing the importance of addressing this challenging topic within education, organizers for the biennial Alaska Math and Science Conference (AMSC) chose "Changing Climates: Tracking Trends" as the theme for the 2013 meeting.

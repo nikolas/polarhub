@@ -3,6 +3,7 @@ layout: news_item
 title: "National Climate Assessment Education Resources for the Alaska Region"
 date: "August 12, 2014"
 description: "Lesson plans, readings, videos, and more to help educators explore key messages and authentic data."
+image: "/assets/img/news-items/AK-flightseeing-glacier.jpg"
 ---
 
 (Originally posted on www.climate.gov)

@@ -4,6 +4,7 @@ title: "PoLAR and Kiel Win Grant to Digitize SMARTIC"
 author: "Jessica Brunacini"
 date: "March 20, 2013"
 description: "Marine spatial planning game will be transformed into touch screen form."
+image: "/assets/img/news-items/meltwaterpond%20copy.jpg"
 ---
 
 The changes taking place in the Arctic bring with them new challenges and opportunities.  As sea ice retreats further and more rapidly due to increasing global temperatures, Arctic communities, ecosystems, and industries will be affected.  With these issues in mind, Stephanie Pfirman, Principal Investigator for the PoLAR Climate Change Education Partnership, developed the Strategic Management of Resources in Times of Change (SMARTIC) tool.  SMARTIC is an interactive, spatial planning game that helps players to better understand the current and future interests of stakeholders in the Arctic through role-play and simulated negotiations.

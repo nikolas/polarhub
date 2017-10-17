@@ -4,6 +4,7 @@ title: "PoLAR Climate Change Education Partnership Receives $5.6 Million Grant"
 author: "Theresa Hernandez"
 date: "August 17, 2012"
 description: "One of six recipients of the CCEP Phase II Award."
+image: "/assets/img/news-items/TPH_NASAimage_BearLakeAlaska_0.jpg"
 ---
 
 (Original posting on the Earth Institute’s State of the Planet Blog)

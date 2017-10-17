@@ -4,6 +4,7 @@ title: "Voicemails From the Future Explore the Impacts of Climate Change"
 author: "Brandie Minchew"
 date: "February 14, 2014"
 description: "PoLAR's FutureCoast Goes Live"
+image: "/assets/img/news-items/alaska-chronofact.jpg"
 ---
 
 (Original postings on WIRED and ARGNet)
