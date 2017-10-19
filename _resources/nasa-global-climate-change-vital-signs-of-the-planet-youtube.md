@@ -4,7 +4,8 @@ title: "NASA Global Climate Change: Vital Signs of the Planet - YouTube"
 date: "February 29, 2016 - 1:09pm"
 author: "NASA Climate Change"
 resource_link: "https://www.youtube.com/user/NASAClimate"
-resource_type: "Video/Visualization"
+resource_type:
+  - Video/Visualization
 climate_topics:
   - Climate System
   - Causes of Climate Change

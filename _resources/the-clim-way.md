@@ -4,10 +4,13 @@ title: "The Clim' Way"
 date: "August 8, 2014 - 2:49pm"
 author: "Part of COP-15 - Multiple international"
 resource_link: "http://climcity.cap-sciences.net/us/index.php"
-resource_type: "Digital game/Simulation"
+resource_type:
+  - Digital game/Simulation
 climate_topics:
   - Impacts of Climate Change
   - Adaptation
+audience:
+  - General
 ---
 
 The Clim’City® game is set against the background of “global thinking for local

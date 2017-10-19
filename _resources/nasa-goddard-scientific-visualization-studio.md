@@ -4,7 +4,10 @@ title: "NASA Goddard Scientific Visualization Studio"
 date: "September 10, 2013 - 2:42pm"
 author: "NASA"
 resource_link: "http://svs.gsfc.nasa.gov/Gallery/index.html"
-resource_type: "Video/Visualization, Images, Website"
+resource_type:
+  - Video/Visualization
+  - Images
+  - Website
 climate_topics:
   - Impacts of Climate Change
 polar_topics:
@@ -17,6 +20,12 @@ polar_topics:
   - Marine Ecosystem
   - Albedo
   - Temperature
+audience:
+  - High School
+  - College
+  - Graduate/Professional
+  - Research
+  - Family
 ---
 
 A comprehensive library of scientific visualizations, videos, and images including many related to polar processes, produced using NASA data, photos, and satellite imagery.

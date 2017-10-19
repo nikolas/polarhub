@@ -7,7 +7,17 @@ layout: default
         <h1 class="resource-title">{{ page.title | escape }}</h1>
         <div class="resource-author">{{ page.author | escape }}</div>
         <a class="resource-link" href="{{ page.resource_link | escape }}">{{ page.resource_link | escape }}</a>
-        <div class="resource-type">{{ page.resource_type | escape }}</div>
+
+        {% if page.resource_type.size > 0 %}
+        <div class="resource-type">
+            Resource Type:
+            <ul>
+                {% for type in page.resource_type%}
+                <li>{{type}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
 
         {% if page.climate_topics.size > 0 %}
         <div>
@@ -25,6 +35,17 @@ layout: default
             Polar Topics:
             <ul>
                 {% for topic in page.polar_topics %}
+                <li>{{topic}}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
+        {% if page.audience.size > 0 %}
+        <div>
+            Audience:
+            <ul>
+                {% for audience_type in page.audience %}
                 <li>{{topic}}</li>
                 {% endfor %}
             </ul>

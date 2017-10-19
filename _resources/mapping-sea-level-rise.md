@@ -4,7 +4,9 @@ title: "Mapping Sea Level Rise"
 date: "August 8, 2014 - 2:49pm"
 author: "Univ of Alaska Fairbanks"
 resource_link: "http://arcticclimatemodeling.org/lessons/acmp/acmp_912_ClimateChange_MappingSeaL..."
-resource_type: "Images, Curriculum"
+resource_type:
+  - Images
+  - Curriculum
 climate_topics:
   - Impacts of Climate Change
 polar_topics:
@@ -12,6 +14,8 @@ polar_topics:
   - Sea Ice
   - Glaciers/Land Ice
   - Sea Level Rise
+audience:
+  - High School
 ---
 
 Students create and explore topographical maps as a means of study-

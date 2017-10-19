@@ -4,7 +4,10 @@ title: "Northwest Passage"
 date: "August 8, 2014 - 2:49pm"
 author: "On the Cutting Edge, SERC"
 resource_link: "http://serc.carleton.edu/sp/library/google_earth/examples/northwest_passage.html"
-resource_type: "Online Interactive Tool, Images, Curriculum"
+resource_type:
+  - Online Interactive Tool
+  - Images
+  - Curriculum
 climate_topics:
   - Climate System
   - Impacts of Climate Change
@@ -14,6 +17,8 @@ polar_topics:
   - Marine Ecosystem
   - Terrestrial Ecosystem
   - Community
+audience:
+  - College
 ---
 
 Climate change is a prominent topic in the media, and its effects are expected to present major challenges for human society. Students need to become aware of the issues connected with this phenomenon.

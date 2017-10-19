@@ -19,7 +19,7 @@ if (typeof require === 'function') {
     var initializeOptions = function(options, $selectEl) {
         options.forEach(function(e) {
             $selectEl.append(
-                '<option value="' + e.replace(/\W/g, '') + '">' +
+                '<option value="' + e + '">' +
                     e + '</option>');
         });
     };
@@ -135,6 +135,8 @@ if (typeof require === 'function') {
             this.field('body');
             this.field('climate_topics');
             this.field('polar_topics');
+            this.field('resource_type');
+            this.field('audience');
             this.field('author');
             this.field('resource_link');
 
@@ -156,6 +158,8 @@ if (typeof require === 'function') {
             $.getJSON(path + 'resources.json').done(function(items) {
                 var climateTopics = [];
                 var polarTopics = [];
+                var resourceType = [];
+                var audience = [];
                 items.forEach(function(e) {
                     e.climate_topics.forEach(function(t) {
                         if (t) {
@@ -167,14 +171,29 @@ if (typeof require === 'function') {
                             appendWithoutDuplicates(polarTopics, $.trim(t));
                         }
                     });
+                    e.resource_type.forEach(function(t) {
+                        if (t) {
+                            appendWithoutDuplicates(resourceType, $.trim(t));
+                        }
+                    });
+                    e.audience.forEach(function(t) {
+                        if (t) {
+                            appendWithoutDuplicates(audience, $.trim(t));
+                        }
+                    });
                 });
 
                 initializeOptions(
                     climateTopics.sort(), $('select#formClimateTopics'));
                 initializeOptions(
                     polarTopics.sort(), $('select#formPolarTopics'));
+                initializeOptions(
+                    resourceType.sort(), $('select#formResourceType'));
+                initializeOptions(
+                    audience.sort(), $('select#formAudience'));
 
                 var search = new Search(items);
+                search.doSearch(['','','']);
 
                 $('#clear-search').click(clearSearch);
                 $('#q').keyup(function() {
@@ -182,22 +201,23 @@ if (typeof require === 'function') {
                     search.doSearch([
                         $.trim($('#q').val()),
                         $('select#formClimateTopics').val(),
-                        $('select#formPolarTopics').val()
+                        $('select#formPolarTopics').val(),
+                        $('select#formResourceType').val(),
+                        $('select#formAudience').val()
                     ]);
                 });
 
-                $('select#formClimateTopics,select#formPolarTopics')
+                $('select#formClimateTopics,select#formPolarTopics,select#formResourceType,select#formAudience')
                     .change(function() {
                         clearSearch();
                         search.doSearch([
                             $.trim($('#q').val()),
                             $('select#formClimateTopics').val(),
-                            $('select#formPolarTopics').val()
+                            $('select#formPolarTopics').val(),
+                            $('select#formResourceType').val(),
+                            $('select#formAudience').val()
                         ]);
                     });
-
-                // called on load
-                search.doSearch(['','','']);
             });
         });
     }
