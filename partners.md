@@ -39,9 +39,11 @@ In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the
 
 ![Elena Sparrow]({{ "/assets/img/partners/ElenaSparrow.jpg" | relative_url }}){:class="rounded float-left partner"}
 
-**Elena Sparrow**, Co-PI
+**Elena Sparrow**, Co-PI and Project Lead
 
-In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the Associate Director and Director of Research of the Earth Institute, Columbia University, Vinton Professor of Earth and Environmental Engineering in the School of Engineering and Applied Science, and Professor of Earth and Environmental Sciences at Columbia University. Dr. Schlosser is an eminent earth scientist whose main research is directed at understanding the natural state of oceans and groundwater and the human perturbation of our planet’s natural state.  He holds a PhD in Physics from the University of Heidelberg, Germany.
+PoLAR Project: Reaching Arctic Communities Facing Climate Change (ReAC)
+
+Dr. Elena Bautista Sparrow is a Research Professor of Soil Microbiology and Environmental Science in the School of Natural Resources and Agricultural Sciences, and Director of Education Outreach at the International Arctic Research Center at the University of Alaska Fairbanks, Fairbanks, Alaska, USA. She is a member of the International Polar Year (IPY) Education Outreach and Communication Working Groups  and is also the director of the University of the Arctic IPY Higher Education and Outreach Office.  Sparrow received her PhD in Soil Microbiology from Colorado State University.
 
 <div class="clearfix"></div>
 
@@ -49,7 +51,9 @@ In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the
 
 **Robert Steiner**, Co-PI and Project Lead
 
-In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the Associate Director and Director of Research of the Earth Institute, Columbia University, Vinton Professor of Earth and Environmental Engineering in the School of Engineering and Applied Science, and Professor of Earth and Environmental Sciences at Columbia University. Dr. Schlosser is an eminent earth scientist whose main research is directed at understanding the natural state of oceans and groundwater and the human perturbation of our planet’s natural state.  He holds a PhD in Physics from the University of Heidelberg, Germany.
+PoLAR Project: Climate Change Professional Development Online Course
+
+Dr. Robert V. Steiner directs online teacher education at the American Museum of Natural History, including its signature Seminars on Science program. His focus is on the design, development, implementation and evaluation of accessible, innovative and effective online and blended programs. The Museum’s partnerships with higher education institutions and other organizations have provided cutting-edge science to over 6,000 teachers across the United States and around the world during the past decade.  He holds a PhD in Physics from Yale University.
 
 <div class="clearfix"></div>
 
@@ -57,7 +61,9 @@ In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the
 
 **Ken Eklund**, Project Lead
 
-In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the Associate Director and Director of Research of the Earth Institute, Columbia University, Vinton Professor of Earth and Environmental Engineering in the School of Engineering and Applied Science, and Professor of Earth and Environmental Sciences at Columbia University. Dr. Schlosser is an eminent earth scientist whose main research is directed at understanding the natural state of oceans and groundwater and the human perturbation of our planet’s natural state.  He holds a PhD in Physics from the University of Heidelberg, Germany.
+PoLAR Project: FutureCoast
+
+Designer of a new breed of collaborative and socially relevant games, Ken Eklund is a leader in the emerging genre of alternate reality games (ARGs), especially those that create playful “what if?” spaces that invite massive public participation. Ken created World Without Oil, the groundbreaking collective imagining of our next oil shock, for ITVS, and was Community Lead for EVOKE, the World Bank Institute’s innovative social entrepreneurship initiative.  Ken launches massively participatory narratives that encourage viewers to interact directly with real-world challenges and have fun collaborating democratically on positive solutions and action.
 
 <div class="clearfix"></div>
 
@@ -65,7 +71,9 @@ In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the
 
 **Maribeth Murray**, Project Lead
 
-In addition to directing the Columbia Climate Center, Dr. Peter Schlosser is the Associate Director and Director of Research of the Earth Institute, Columbia University, Vinton Professor of Earth and Environmental Engineering in the School of Engineering and Applied Science, and Professor of Earth and Environmental Sciences at Columbia University. Dr. Schlosser is an eminent earth scientist whose main research is directed at understanding the natural state of oceans and groundwater and the human perturbation of our planet’s natural state.  He holds a PhD in Physics from the University of Heidelberg, Germany.
+PoLAR Project: Polar Voices
+
+Dr. Maribeth Murray is the director of the University of Calgary’s Arctic Institute of North America, a multi-disciplinary international center dedicated to national and international northern and arctic research activities.  She holds an appointment as a professor in the Faculty of Arts, Department of Archaeology.  Her research interests include the impacts of environmental change on northern human and marine systems, historical ecology, and the interface between research and science policy.  Murray received a PhD in Anthropology from McMaster University, Canada.
 
 <div class="clearfix"></div>
 
