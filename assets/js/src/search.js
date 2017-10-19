@@ -45,13 +45,20 @@ if (typeof require === 'function') {
     };
 
     Search.prototype.doSearch = function(params) {
-        var mainTerm = params[0].split(' ').map(function(x) {
-            if (x) {
-                return '*' + x + '*';
-            } else {
-                return x;
-            }
-        });
+        var mainTerm = '';
+        // No search params? Then just show everything by
+        // setting '*' if params is empty
+        if (params.join('') === '') {
+            mainTerm = ['*'];
+        } else {
+            mainTerm = params[0].split(' ').map(function(x) {
+                if (x) {
+                    return '*' + x + '*';
+                } else {
+                    return x;
+                }
+            });
+        }
 
         var searchParams = [];
 
@@ -68,11 +75,9 @@ if (typeof require === 'function') {
             searchParams.push(['audience',  params[4]]);
         }
 
-        if ((mainTerm.length === 0 || !mainTerm[0]) && searchParams.length === 0) {
-            // No search params? Then just show everything.
-            $('#all-objects').show();
-            return false;
-        }
+        var $el = $('#search-results');
+        $el.show();
+        $('#all-objects').hide();
 
         this.results = this.index.query(function(q) {
             searchParams.forEach(function(param) {
@@ -89,13 +94,10 @@ if (typeof require === 'function') {
                 }
             });
         }).filter(function(result) {
-            return Object.keys(result.matchData.metadata).length ===
+            var hasSomeParams = Object.keys(result.matchData.metadata).length ===
                 searchParams.length;
+            return searchParams.join('') === '*' || hasSomeParams;
         });
-
-        var $el = $('#search-results');
-        $el.show();
-        $('#all-objects').hide();
 
         var me = this;
         this.results.forEach(function(r) {
@@ -177,7 +179,7 @@ if (typeof require === 'function') {
                 $('#clear-search').click(clearSearch);
                 $('#q').keyup(function() {
                     clearSearch();
-                    return search.doSearch([
+                    search.doSearch([
                         $.trim($('#q').val()),
                         $('select#formClimateTopics').val(),
                         $('select#formPolarTopics').val()
@@ -187,12 +189,15 @@ if (typeof require === 'function') {
                 $('select#formClimateTopics,select#formPolarTopics')
                     .change(function() {
                         clearSearch();
-                        return search.doSearch([
+                        search.doSearch([
                             $.trim($('#q').val()),
                             $('select#formClimateTopics').val(),
                             $('select#formPolarTopics').val()
                         ]);
                     });
+
+                // called on load
+                search.doSearch(['','','']);
             });
         });
     }
