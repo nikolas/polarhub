@@ -4,13 +4,19 @@ title: "Sea Ice Board Game"
 date: "August 8, 2014 - 2:49pm"
 author: "Univ of Alaska Fairbanks"
 resource_link: "http://arcticclimatemodeling.org/lessons/acmp/acmp_58_SeaIce_SeaIceBoardGame.pdf"
-resource_type: "Analog Game/Simulation, Images, Curriculum"
+resource_type:
+  - Analog Game/Simulation
+  - Images
+  - Curriculum
 climate_topics:
   - Climate System
 polar_topics:
   - Arctic
   - Antarctic
   - Sea Ice
+audience:
+  - General
+  - Family
 ---
 
 In this sea ice board game students review the types of sea ice and are introduced to the four stages of the sea ice cycle in order to enhance and demonstrate their knowledge.

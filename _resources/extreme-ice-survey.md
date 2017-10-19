@@ -4,7 +4,10 @@ title: "Extreme Ice Survey"
 date: "August 8, 2014 - 2:49pm"
 author: "James Balog"
 resource_link: "http://extremeicesurvey.org/"
-resource_type: "Video/Visualization, Images, Website"
+resource_type:
+  - Video/Visualization
+  - Images
+  - Website
 climate_topics:
   - Climate System
   - Causes of Climate Change
@@ -15,6 +18,8 @@ polar_topics:
   - Antarctic
   - Glaciers/Land Ice
   - Sea Level Rise
+audience:
+  - General
 ---
 
 Home of 'Chasing Ice' director James Balog's images, videos, and other resources documenting glacial changes around the world.

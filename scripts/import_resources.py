@@ -40,11 +40,14 @@ class Resource:
 
     def __init__(self, obj):
         self.title = obj.get('Title').strip()
+        self.audience = [
+            x.strip() for x in obj.get('Audience').split(',')]
         self.author = obj.get('Author').strip() or \
                       obj.get('Author / Institution').strip()
         self.body = obj.get('Body').strip()
         self.resource_link = obj.get('Resource Link').strip()
-        self.resource_type = obj.get('Resource Type').strip()
+        self.resource_type = [
+            x.strip() for x in obj.get('Resource Type').split(',')]
         self.climate_topics = [
             x.strip() for x in obj.get('Climate Topics').split(',')]
         self.polar_topics = [
@@ -56,9 +59,11 @@ class Resource:
             'title': self.title,
             'author': self.author,
             'body': self.body,
+            'audience': self.audience,
             'resource_link': self.resource_link,
             'climate_topics': self.climate_topics,
             'polar_topics': self.polar_topics,
+            'resource_type': self.resource_type,
             'post_date': self.post_date,
         }
 
@@ -76,9 +81,11 @@ class Resource:
         if self.resource_link:
             s += 'resource_link: "{}"\n'.format(
                 self.resource_link.replace('"', '\\"'))
-        if self.resource_type:
-            s += 'resource_type: "{}"\n'.format(
-                self.resource_type.replace('"', '\\"'))
+
+        if self.resource_type and self.resource_type[0]:
+            s += 'resource_type:\n'
+            for resource in self.resource_type:
+                s += '  - {}\n'.format(resource)
 
         if self.climate_topics and self.climate_topics[0]:
             s += 'climate_topics:\n'
@@ -89,6 +96,11 @@ class Resource:
             s += 'polar_topics:\n'
             for topic in self.polar_topics:
                 s += '  - {}\n'.format(topic)
+
+        if self.audience and self.audience[0]:
+            s += 'audience:\n'
+            for single_audience in self.audience:
+                s += '  - {}\n'.format(single_audience)
 
         s += '---\n'
 

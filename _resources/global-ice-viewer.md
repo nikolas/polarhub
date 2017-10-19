@@ -4,7 +4,8 @@ title: "Global Ice Viewer"
 date: "September 10, 2013 - 2:42pm"
 author: "NASA"
 resource_link: "http://www.nasa.gov/externalflash/globaliceviewer/"
-resource_type: "Online Interactive Tool"
+resource_type:
+  - Online Interactive Tool
 climate_topics:
   - Impacts of Climate Change
 polar_topics:
@@ -13,6 +14,9 @@ polar_topics:
   - Sea Ice
   - Glaciers/Land Ice
   - Sea Level Rise
+audience:
+  - General
+  - Family
 ---
 
 The Global Ice Viewer is an interactive tool that allows users to learn about and view changes in Earth's ice cover.  The tool focuses on glaciers, sea ice, and ice sheets in Greenland and Antarctica.

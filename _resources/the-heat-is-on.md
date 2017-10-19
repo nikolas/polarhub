@@ -4,7 +4,10 @@ title: "The heat is on"
 date: "August 8, 2014 - 2:49pm"
 author: "CReSIS"
 resource_link: "https://www.cresis.ku.edu/education/k-12/teacher-workshops"
-resource_type: "Video/Visualization, Curriculum, Website"
+resource_type:
+  - Video/Visualization
+  - Curriculum
+  - Website
 climate_topics:
   - Impacts of Climate Change
 polar_topics:
@@ -14,6 +17,10 @@ polar_topics:
   - Glaciers/Land Ice
   - Sea Level Rise
   - Community
+audience:
+  - High School
+  - College
+  - Graduate/Professional
 ---
 
 The CReSIS K-12 education page is for teachers and students and contains learning and teaching resources such as ideas, maps, images, and updates about the research our team is doing. Opportunities for talks by scientists and other resources for science teachers will also be found on the site.  The website contains videos,presentations, lectures, multimedia, graphs and charts.  Undergraduate and Graduate students can find information on learning opportunities.

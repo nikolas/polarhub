@@ -4,7 +4,9 @@ title: "Climate Interpreter Resources"
 date: "March 28, 2016 - 2:54pm"
 author: "Climate Interpreter"
 resource_link: "http://climateinterpreter.org/resource"
-resource_type: "Online Interactive Tool, Website"
+resource_type:
+  - Online Interactive Tool
+  - Website
 climate_topics:
   - Climate System
   - Causes of Climate Change
@@ -17,6 +19,10 @@ polar_topics:
   - Sea Level Rise
   - Terrestrial Ecosystem
   - Temperature
+audience:
+  - High School
+  - College
+  - General
 ---
 
 Do you work or volunteer with an aquarium, zoo, national park, national marine sanctuary, or other informal science education center that is addressing climate change? Connect and share with a national community of colleagues and peers. There is a collection of resources on climate change available as well as information on various training modules.

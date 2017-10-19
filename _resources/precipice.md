@@ -4,11 +4,16 @@ title: "Precipice"
 date: "September 10, 2013 - 2:42pm"
 author: "Centre for Digital Media"
 resource_link: "http://www.precipice.altereddreams.net/"
-resource_type: "Digital game/Simulation"
+resource_type:
+  - Digital game/Simulation
 climate_topics:
   - Impacts of Climate Change
 polar_topics:
   - Arctic
+audience:
+  - High School
+  - College
+  - General
 ---
 
 Precipice is a simulation of some future global warming scenarios. The simulation intends to make vivid some of the future scenarios developed by Global EESE. The experience takes place in a 3D environment where the player is presented with a familiar scene set in the present day and a future scene set in 2032.
