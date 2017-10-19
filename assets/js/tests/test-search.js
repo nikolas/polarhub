@@ -27,6 +27,12 @@ describe('Search.doSearch()', function() {
         assert.strictEqual(s.results.length, 0);
     });
 
+    it('returns all elements when given an empty string', function() {
+        var s = new Search(items);
+        s.doSearch(['', null, null, null, null]);
+        assert.strictEqual(s.results.length, items.length);
+    });
+
     it('returns the right elements when there are items', function() {
         var s = new Search(items);
         s.doSearch(['abc', null, null, null, null]);
