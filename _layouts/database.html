@@ -2,7 +2,6 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
     {% include head.html %}
-
     <body>
 
         {% include header.html %}
@@ -45,6 +44,7 @@
                         </select>
                     </div>
                 </div>
+                <nav class="pagination-holder" aria-label="Search results pages"></nav>
                 <div id="search-results"></div>
             </div>
         </main>
@@ -53,6 +53,8 @@
 
         <script src="{{ "/assets/js/lib/lunr.js" | relative_url }}"></script>
         <script src="{{ "/assets/js/src/search.js" | relative_url }}"></script>
+        <link rel="stylesheet" href="{{ "/assets/css/simplePagination.css" | relative_url }}">
+        <script src="{{ "/assets/js/lib/jquery.simplePagination.js" | relative_url }}"></script>
     </body>
 
 </html>
