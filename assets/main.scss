@@ -3,7 +3,7 @@
 ---
 @charset "utf-8";
 
-nav {
+header.site-header {
     background-image: url('img/aurora.jpg');
     color: white;
 }
@@ -56,4 +56,8 @@ img.news-header-image {
     margin-left: 0.5em;
     max-width: 600px;
     max-height: 500px;
+}
+
+nav.pagination-holder {
+    margin: 1.25em 0em;
 }

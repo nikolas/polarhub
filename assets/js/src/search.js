@@ -1,6 +1,8 @@
 /* eslint-env jquery */
 /* eslint-env node */
 
+var ITEMS_ON_PAGE = 10;
+
 if (typeof require === 'function') {
     var jsdom = require('jsdom');
     var JSDOM = jsdom.JSDOM;
@@ -104,16 +106,16 @@ if (typeof require === 'function') {
             var d = me.data[r.ref];
             var href = '/resources/' + slugify(d.title);
 
-            var $result = $(
-                '<div class="search-result">' +
+            var result = '<div class="search-result">' +
                     '<a href="' + href + '">' +
                     d.title +
                     '</a>' +
                     '<p>' + truncate(d.body) + '</p>' +
-                    '</div>'
-            );
-            $el.append($result);
+                    '</div>';
+
+            r.renderedString = result;
         });
+
         return false;
     };
 
@@ -150,6 +152,31 @@ if (typeof require === 'function') {
 
     var clearSearch = function() {
         $('#search-results').empty();
+    };
+
+    /**
+     * Generate an element containing all the events that belong on
+     * the given page number.
+     */
+    var renderEvents = function(items, pageNum) {
+        var $container = jQuery('<div class="polarhub-articles" />');
+        var start = (pageNum - 1) * ITEMS_ON_PAGE;
+        var end = start + ITEMS_ON_PAGE;
+        for (var i = start; i < end && i < items.length; i++) {
+            $container.append(jQuery(
+                items[i].renderedString
+            ));
+        }
+        return $container;
+    };
+
+    /**
+     * Clear the events from the DOM and re-render them.
+     */
+    var refreshEvents = function(items, pageNum) {
+        $('.pagination-holder').pagination('updateItems', items.length);
+        clearSearch();
+        jQuery('#search-results').append(renderEvents(items, pageNum));
     };
 
     if (typeof document === 'object') {
@@ -192,8 +219,25 @@ if (typeof require === 'function') {
                 initializeOptions(
                     audience.sort(), $('select#formAudience'));
 
+                // First initialize the search
                 var search = new Search(items);
+                // Initialize pagination
+                $('.pagination-holder').pagination({
+                    items: items.length,
+                    itemsOnPage: ITEMS_ON_PAGE,
+                    useAnchors: false,
+                    cssStyle: 'light-theme',
+                    onPageClick: function(pageNumber) {
+                        if (search.results.length > 0 || $('#q').val().length > 0) {
+                            refreshEvents(search.results, pageNumber);
+                        } else {
+                            refreshEvents(search.results, pageNumber);
+                        }
+                    }
+                });
+
                 search.doSearch(['','','']);
+                refreshEvents(search.results, 1);
 
                 $('#clear-search').click(clearSearch);
                 $('#q').keyup(function() {
@@ -205,6 +249,7 @@ if (typeof require === 'function') {
                         $('select#formResourceType').val(),
                         $('select#formAudience').val()
                     ]);
+                    refreshEvents(search.results, 1);
                 });
 
                 $('select#formClimateTopics,select#formPolarTopics,select#formResourceType,select#formAudience')
@@ -217,7 +262,9 @@ if (typeof require === 'function') {
                             $('select#formResourceType').val(),
                             $('select#formAudience').val()
                         ]);
+                        refreshEvents(search.results, 1);
                     });
+
             });
         });
     }
