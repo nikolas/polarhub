@@ -116,8 +116,6 @@ if (typeof require === 'function') {
             r.renderedString = result;
         });
 
-        // render the first page of results
-        refreshEvents(this.results, 1);
         return false;
     };
 
@@ -176,8 +174,6 @@ if (typeof require === 'function') {
      * Clear the events from the DOM and re-render them.
      */
     var refreshEvents = function(items, pageNum) {
-        // Sort by date first to ensure the correct order
-        //items = CTLEventUtils.sortEventsByDate(items);
         $('.pagination-holder').pagination('updateItems', items.length);
         clearSearch();
         jQuery('#search-results').append(renderEvents(items, pageNum));
@@ -225,7 +221,7 @@ if (typeof require === 'function') {
 
                 // First initialize the search
                 var search = new Search(items);
-                // Then initialize pagination
+                // Initialize pagination
                 $('.pagination-holder').pagination({
                     items: items.length,
                     itemsOnPage: ITEMS_ON_PAGE,
@@ -239,9 +235,9 @@ if (typeof require === 'function') {
                         }
                     }
                 });
-                //$('.pagination-holder > ul:first').addClass('pagination');
-                // Then call search
+
                 search.doSearch(['','','']);
+                refreshEvents(search.results, 1);
 
                 $('#clear-search').click(clearSearch);
                 $('#q').keyup(function() {
@@ -253,6 +249,7 @@ if (typeof require === 'function') {
                         $('select#formResourceType').val(),
                         $('select#formAudience').val()
                     ]);
+                    refreshEvents(search.results, 1);
                 });
 
                 $('select#formClimateTopics,select#formPolarTopics,select#formResourceType,select#formAudience')
@@ -265,6 +262,7 @@ if (typeof require === 'function') {
                             $('select#formResourceType').val(),
                             $('select#formAudience').val()
                         ]);
+                        refreshEvents(search.results, 1);
                     });
 
             });
