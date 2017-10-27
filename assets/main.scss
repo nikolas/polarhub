@@ -9,7 +9,7 @@ header.site-header {
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: rgba(255,255,255,.8);/*Opacity override for readable links*/
+    color: rgba(255,255,255,.8)!important;/*Opacity override for readable links*/
 }
 
 
