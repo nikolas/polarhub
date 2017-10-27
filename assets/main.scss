@@ -8,6 +8,11 @@ header.site-header {
     color: white;
 }
 
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.8);/*Opacity override for readable links*/
+}
+
+
 .page-content {
     margin-top: 20px;
 }
