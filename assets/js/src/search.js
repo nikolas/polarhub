@@ -104,7 +104,7 @@ if (typeof require === 'function') {
         var me = this;
         this.results.forEach(function(r) {
             var d = me.data[r.ref];
-            var href = '/resources/' + slugify(d.title);
+            var href = '../resources/' + slugify(d.title);
 
             var result = '<div class="search-result">' +
                     '<a href="' + href + '">' +
