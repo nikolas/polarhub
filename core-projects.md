@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: core_projects_list 
 title: Core Projects
 permalink: /core-projects/
 ---

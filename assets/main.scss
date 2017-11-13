@@ -70,3 +70,18 @@ img.news-header-image {
 nav.pagination-holder {
     margin: 1.25em 0em;
 }
+
+.core-project-list-container {
+    background-color: #2aace7;
+    border-radius: 10px;
+
+    .cp-item {
+        background-color: rgba(0, 0, 0, 0.15);
+        border-radius: 3px;
+        margin: 1em;
+        &:hover {
+            background-color: #FFFFFF;
+        }
+    }
+}
+    
