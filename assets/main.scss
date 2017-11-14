@@ -78,9 +78,40 @@ nav.pagination-holder {
     .cp-item {
         background-color: rgba(0, 0, 0, 0.15);
         border-radius: 3px;
-        margin: 1em;
+        display: flex;
+        flex-flow: column nowrap;
         &:hover {
             background-color: #FFFFFF;
+        }
+
+        .cp-item-title {
+            font-weight: bold;
+            text-align: center;
+            flex: 2 2 20%;
+            a {
+                color: black;
+            }
+        }
+
+        .cp-item-image {
+            display: flex;
+            flex-flow: row;
+            justify-content: center;
+            margin-bottom: 1em;
+            flex: 2 2 20%;
+
+            img {
+                height: 5em;
+                width: 5em;
+                border-radius: 50%;
+            }
+        }
+
+        .cp-item-caption {
+            text-align: center;
+            display: flex;
+            flex: 3 3 300px;
+            font-size: .80em
         }
     }
 }
