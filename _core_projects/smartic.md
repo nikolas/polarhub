@@ -23,18 +23,20 @@ available through the [CAMEL website](http://camelclimatechange.org/camel/activi
  If you need guidance on how to run the activity, or have feedback based
 on your experience, contact us at polar@ei.columbia.edu.
 
-**Organization Name:**
-Barnard College
-Teachers College
-Kiel Future Ocean
-**Project Lead:**
-Stephanie Pfirman
-Tom Toynton
-Jörn Schmidt
-**Key Personnel:**
-Joey Lee
-Chris Vicari
-Christian de-Luna
-Dennis Nissen
-Michel Magens
-Jessica Brunacini
+**Organization Name:**  
+Barnard College  
+Teachers College  
+Kiel Future Ocean  
+
+**Project Lead:**  
+Stephanie Pfirman  
+Tom Toynton  
+Jörn Schmidt  
+
+**Key Personnel:**  
+Joey Lee  
+Chris Vicari  
+Christian de-Luna  
+Dennis Nissen  
+Michel Magens  
+Jessica Brunacini  

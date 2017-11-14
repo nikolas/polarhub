@@ -54,6 +54,14 @@ Melting
 Simulation](https://www.nestanet.org/cms/sites/default/files/journal/LDEO_Fall2014sep.pdf),"
 from the Fall 2014 issue of The Earth Scientist journal.
 
-**Organization Name:** Lamont-Doherty Earth Observatory, Columbia
-University **Project Lead:** Margie Turrin **Key Personnel:** Bill Ryan
-Robin Bell Andrew Goodwillie David Porter
+**Organization Name:**  
+Lamont-Doherty Earth Observatory, Columbia University  
+
+**Project Lead:**  
+Margie Turrin  
+
+**Key Personnel:**  
+Bill Ryan  
+Robin Bell  
+Andrew Goodwillie  
+David Porter

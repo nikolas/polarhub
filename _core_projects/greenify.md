@@ -21,10 +21,18 @@ lives.  
 Read more about the design and research of the project in "[Greenify:
 Fostering Sustainable Communities via
 Gamification](http://www.gameprof.com/wp-content/uploads/2013/03/Lee-et-al-2013-CHI-Greenify.pdf),"
-from the 2013 [ACM SIGCHI Conference on Human Factors in Computing
-Systems.]{}  
+from the 2013 ACM SIGCHI Conference on Human Factors in Computing
+Systems. 
 
-**Organization Name:** Games Research Lab (Real-World Impact Games
-Group) at Teachers College **Project Lead:** Joey J. Lee, Ph.D. **Key
-Personnel:** Rafael Kern Thomas Tavares Eduardo Matamoros Jason Wu
+**Organization Name:**  
+Games Research Lab (Real-World Impact Games Group) at Teachers College  
+
+**Project Lead:**  
+Joey J. Lee, Ph.D.  
+
+**Key Personnel:**  
+Rafael Kern  
+Thomas Tavares  
+Eduardo Matamoros  
+Jason Wu  
 Haeseung Liz Yi
