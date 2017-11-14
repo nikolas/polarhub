@@ -39,3 +39,5 @@ collections:
     output: true
   resources:
     output: true
+  core_projects:
+    output: true
