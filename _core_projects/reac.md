@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Reaching Arctic Communities Facing Climate Change (ReAC) 
-image: ReAC_PlayingEcoChains.jpg 
+image: /files/ReAC_PlayingEcoChains.jpg 
 short-title: ReAC 
-landing-page-image: project-square-reac.png
+landing-page-image: /files/project-square-reac.png
 landing-page-description: "The Signs of the Land Camp: Reaching Arctic Communities Facing Climate Change blends Alaska Native knowledge and western climate science."
 permalink: /core_projects/reac.html
 ---
@@ -58,10 +58,16 @@ Elders, scientists talk action, plans for fighting climate change in
 Interior Alaska
 villages](http://www.newsminer.com/features/sundays/community_features/native-elders-scientists-talk-action-plans-for-fighting-climate-change/article_521aaab6-3b23-11e6-a0f1-1b0ac4a80df7.html)"
 by ReAC Participant Diana
-Campbell.[]{data-file_info="%7B%22fid%22:%225517%22,%22view_mode%22:%22link%22,%22type%22:%22media%22%7D"}
+Campbell.
 
-**Organization Name:** International Arctic Research Center at the
-University of Alaska Fairbanks Association of Interior Native Educators
-**Project Lead:** Elena B. Sparrow, University of Alaska Fairbanks
-Malinda Chase, Association of Interior Native Educators **Key
-Personnel:** Sam Demientieff, Athabaskan Native Elder Jessica Brunacini
+**Organization Name:**  
+International Arctic Research Center at the University of Alaska Fairbanks   
+Association of Interior Native Educators  
+
+**Project Lead:**  
+Elena B. Sparrow, University of Alaska Fairbanks  
+Malinda Chase, Association of Interior Native Educators  
+
+**Key Personnel:**  
+Sam Demientieff, Athabaskan Native Elder  
+Jessica Brunacini

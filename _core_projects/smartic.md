@@ -1,9 +1,9 @@
 ---
 layout: page
 title: SMARTIC (Strategic Management of Resources in Times of Change) 
-image: AMNH_1Day_SMARTIC3.jpg
+image: /files/AMNH_1Day_SMARTIC3.jpg
 short-title: SMARTIC 
-landing-page-image: project-square-smartic.png
+landing-page-image: /files/project-square-smartic.png
 landing-page-description: Through simulated role play, students learn about the opportunities and risks facing key stakeholders in a rapidly changing Arctic.
 permalink: /core_projects/smartic
 ---
@@ -23,18 +23,20 @@ available through the [CAMEL website](http://camelclimatechange.org/camel/activi
  If you need guidance on how to run the activity, or have feedback based
 on your experience, contact us at polar@ei.columbia.edu.
 
-**Organization Name:**
-Barnard College
-Teachers College
-Kiel Future Ocean
-**Project Lead:**
-Stephanie Pfirman
-Tom Toynton
-Jörn Schmidt
-**Key Personnel:**
-Joey Lee
-Chris Vicari
-Christian de-Luna
-Dennis Nissen
-Michel Magens
-Jessica Brunacini
+**Organization Name:**  
+Barnard College  
+Teachers College  
+Kiel Future Ocean  
+
+**Project Lead:**  
+Stephanie Pfirman  
+Tom Toynton  
+Jörn Schmidt  
+
+**Key Personnel:**  
+Joey Lee  
+Chris Vicari  
+Christian de-Luna  
+Dennis Nissen  
+Michel Magens  
+Jessica Brunacini  

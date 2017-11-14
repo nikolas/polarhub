@@ -17,7 +17,7 @@
             {% for cp in core-projects %}
             <div class="col m-2 cp-item">
                 <div class="cp-item-title"><a href="{{ cp.permalink }}">{{ cp.short-title }}</a></div>
-                <div class="cp-item-image"><a href="{{ cp.permalink }}"><img src="/files/{{ cp.landing-page-image }}"></a></div>
+                <div class="cp-item-image"><a href="{{ cp.permalink }}"><img src="{{ cp.landing-page-image | relative_url }}"></a></div>
                 <div class="cp-item-caption">
                     {{ cp.landing-page-description }} 
                 </div>

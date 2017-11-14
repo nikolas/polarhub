@@ -2,7 +2,7 @@
 layout: page
 title: FutureCoast
 short-title: FutureCoast
-landing-page-image: FutureCoast_TPHupdated-image.jpg
+landing-page-image: /files/FutureCoast_TPHupdated-image.jpg
 landing-page-description: Explore publicly crowd sourced voicemails about possible climate changed futures in this collaborative storytelling experience.
 permalink: /core_projects/futurecoast.html
 ---
@@ -54,6 +54,22 @@ content of participant-generated voicemails from the spring 2014
 experience.   Preliminary findings will be shared at the fall 2014
 meeting of the American Geophysical Union.
 
-**Organization Name:** Writerguy LLC Project Lead: Ken Eklund **Key
-Personnel:** Sara Thacher Tara Borman Dee Cook Michelle Senderhauf Marie
-Lamb Ryan Meyer Willa Koerner **Project URL:** http://futurecoast.org
+**Organization Name:**  
+Writerguy LLC  
+
+**Project Lead:**  
+Ken Eklund  
+
+**Key Personnel:**  
+Sara Thacher  
+Tara Borman  
+Dee Cook  
+Michelle Senderhauf  
+Marie Lamb  
+Ryan Meyer  
+Willa Koerner  
+
+**Project URL:**  
+[http://futurecoast.org](http://futurecoast.org)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AffkjJ-Ft64?rel=0" frameborder="0" allowfullscreen></iframe>
