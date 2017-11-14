@@ -22,17 +22,23 @@ lllustrations by Bree Westphal; design by Eduard Matamoros.
 
 **Resources for Educators:**
 Quick guides for using EcoChains in classroms and other learning spaces:
-- [pdf-icon]<a href="http://thepolarhub.org/sites/default/files/EcoChains-HS-Classroom-QuickGuide.pdf">EcoChains-HS-Classroom-QuickGuide.pdf</a></li>
-- <img class="file-icon" src="/modules/file/icons/application-pdf.png" title="application/pdf" alt="">&nbsp;<a style="line-height: 1.5; background-color: transparent;" href="http://thepolarhub.org/sites/default/files/EcoChains-MS-Classroom-QuickGuide_0.pdf">EcoChains-MS-Classroom-QuickGuide.pdf</a></li>
-- <img class="file-icon" src="/modules/file/icons/application-pdf.png" title="application/pdf" alt=""> <a href="http://thepolarhub.org/sites/default/files/EcoChains-NCA-QuickGuide.pdf">EcoChains-NCA-QuickGuide.pdf</a></li>
+- [EcoChains-HS-Classroom-QuickGuide.pdf]({{ "/files/EcoChains-HS-Classroom-QuickGuide.pdf" | relative_url }})
+- [EcoChains-MS-Classroom-QuickGuide.pdf]({{ "/files/EcoChains-MS-Classroom-QuickGuide_0.pdf" | relative_url }})
+- [EcoChains-NCA-QuickGuide.pdf]({{ "/files/EcoChains-NCA-QuickGuide.pdf" | relative_url }})
 
 Starter game instructions:
-<ul>
-<li><img class="file-icon" src="/modules/file/icons/application-pdf.png" title="application/pdf" alt=""> <a href="http://thepolarhub.org/sites/default/files/EcoChains-QuickStart-GamePlay_0.pdf">EcoChains-QuickStart-GamePlay.pdf</a></li>
-</ul>
-Compainion article:
-<ul>
-<li><img class="file-icon" src="/modules/file/icons/application-pdf.png" title="application/pdf" alt=""> <a href="http://thepolarhub.org/sites/default/files/EcoChains-CompanionArticle.pdf">EcoChains-CompanionArticle.pdf</a></li>
-</ul>
+- [EcoChains-QuickStart-GamePlay.pdf]({{ "/files/EcoChains-QuickStart-GamePlay_0.pdf" | relative_url }})
 
-[pdf-icon]: modules/file/icons/application-pdf.png
+Compainion article:
+- [EcoChains-CompanionArticle.pdf]({{ "/files/EcoChains-CompanionArticle.pdf" | relative_url }})
+
+**Organization Name:**  
+Barnard College  
+Teachers College  
+
+**Project Lead:**  
+Stephanie Pfirman  
+Joey Lee  
+
+**Key Personnel:**  
+Tom Toynton  
