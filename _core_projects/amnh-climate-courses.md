@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Online Professional Development for Teachers: Climate Change"
-image: W1E1_1_full.jpg
+image: /files/W1E1_1_full.jpg
 short-title: AMNH Climate Courses
-landing-page-image: project-square-opd.png
+landing-page-image: /files/project-square-opd.png
 landing-page-description: Teachers and lifelong learners dive into the science of climate change through online and in person courses.
 permalink: /core_projects/amnh_climate_courses.html
 ---

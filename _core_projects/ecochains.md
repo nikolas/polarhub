@@ -2,8 +2,8 @@
 layout: page
 title: "EcoChains: Arctic Crisis"
 short-title: EcoChains
-image: EcoChainsArcticCrisis_Cards.jpg
-landing-page-image: project-square-ecochains.png
+image: /files/EcoChainsArcticCrisis_Cards.jpg
+landing-page-image: /files/project-square-ecochains.png
 landing-page-description: Players are challenged to protect the Arctic marine ecosystem from the effects of rapidly warming temperatures in this card game of strategy and survival.
 permalink: /core_projects/ecochains.html
 ---
