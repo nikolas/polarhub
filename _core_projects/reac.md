@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: core_project 
 title: Reaching Arctic Communities Facing Climate Change (ReAC) 
 image: /files/ReAC_PlayingEcoChains.jpg 
 short-title: ReAC 

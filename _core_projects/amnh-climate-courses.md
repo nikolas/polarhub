@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: core_project 
 title: "Online Professional Development for Teachers: Climate Change"
 image: /files/W1E1_1_full.jpg
 short-title: AMNH Climate Courses

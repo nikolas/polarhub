@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: core_project 
 title: The Greenify Network 
 image: /files/GreenifyImage2.png
 short-title: Greenify

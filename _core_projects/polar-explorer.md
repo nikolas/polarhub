@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: core_project 
 title: "Polar Explorer: Sea Level"
 image: /files/PolarExplorer_Screenshot2.jpg
 short-title: Polar Explorer 
