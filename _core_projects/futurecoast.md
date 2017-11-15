@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: core_projec 
 title: FutureCoast
 short-title: FutureCoast
 landing-page-image: /files/FutureCoast_TPHupdated-image.jpg

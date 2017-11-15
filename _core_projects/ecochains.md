@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: core_project 
 title: "EcoChains: Arctic Crisis"
 short-title: EcoChains
 image: /files/EcoChainsArcticCrisis_Cards.jpg

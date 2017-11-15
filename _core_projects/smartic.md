@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: core_project 
 title: SMARTIC (Strategic Management of Resources in Times of Change) 
 image: /files/AMNH_1Day_SMARTIC3.jpg
 short-title: SMARTIC 
