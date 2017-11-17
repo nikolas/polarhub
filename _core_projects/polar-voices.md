@@ -5,7 +5,7 @@ image: /files/polarvoices.jpg
 short-title: PoLAR Voices
 landing-page-image: /files/polarvoices.jpg 
 landing-page-description: Meet the people who live, work, and study in the polar regions through a series of audio programs.
-permalink: /core_prjects/polar_voices.html
+permalink: /core_projects/polar_voices.html
 ---
 
 **Description:**

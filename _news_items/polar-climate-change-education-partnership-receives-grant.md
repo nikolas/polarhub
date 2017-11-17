@@ -7,7 +7,7 @@ description: "One of six recipients of the CCEP Phase II Award."
 image: "/assets/img/news-items/TPH_NASAimage_BearLakeAlaska_0.jpg"
 ---
 
-(Original posting on the Earth Institute’s State of the Planet Blog)
+([Original posting](http://blogs.ei.columbia.edu/2012/08/17/polar-climate-change-education-partnership-receives-5-6-million-grant/) on the Earth Institute’s State of the Planet Blog)
 
 The Columbia Climate Center will receive one of six Climate Change Education Partnership-Phase II (CCEP-II) program awards from the National Science Foundation (NSF).
 
@@ -21,4 +21,4 @@ As a communications hub for polar climate change, the PoLAR website will be used
 
 The CCEP program is a one-time, dedicated NSF effort to establish a coordinated national network of regionally- or thematically-based partnerships devoted to increasing the adoption of effective, high quality educational programs and resources related to the science of climate change and its impacts.  The CCEP portfolio encompasses a major interdisciplinary research and development effort designed to promote deeper understanding of, and engagement with, climate system science and the impacts of climate change on natural and human systems.   The vision of this program is a scientifically literate society that can effectively weigh the evidence regarding global climate change as it confronts the challenges ahead, while developing the innovative scientific and technical workforce to advance our knowledge of human-climate interactions and develop approaches for a sustainable, prosperous future. Each CCEP is required to incorporate innovative collaborations among expertise of climate scientists, learning scientists, and education practitioners in either formal or informal learning environments to research, design, and test new models and strategies for effective teaching and learning about climate science.  With its focus on interdisciplinary approaches and transformative scales of impact, the CCEP program occupies a unique and complementary niche in the portfolio of Federal investments related to climate science education and workforce development.
 
-For more information about the NSF CCEP-II Program, please visit the NSF website.
+For more information about the [NSF CCEP-II Program](http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=503465), please visit the NSF website.
