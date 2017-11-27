@@ -14,9 +14,7 @@ Everyone is talking about climate change, but what does it all mean?
 Listen in as PoLAR Voices breaks down the science of climate change with
 people living and working in the polar regions.
 
-**Annoucement:**
-
-Join us every third Wednesday for the latest episode of PoLAR Voices.
+An archive of the podcast can be found [here](http://arctic.ucalgary.ca/podcasts-archive).
 
 **Developed by:** Arctic Institute of North America, University of
 Calgary University of Alaska Fairbanks University of Alaska Museum of
