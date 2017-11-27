@@ -12,3 +12,5 @@ to featuring the latest in polar climate science, news, and research,
 the Hub provides information on educational resources focused on polar
 climate change, including the games, activities, and other innovative
 tools developed by the PoLAR Partnership.
+
+<img src="/assets/img/polar-home.jpg" class="img-fluid">
