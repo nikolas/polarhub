@@ -7,55 +7,60 @@ layout: default
         <h1 class="resource-title">{{ page.title | escape }}</h1>
         <div class="resource-author">{{ page.author | escape }}</div>
         <a class="resource-link" href="{{ page.resource_link | escape }}">{{ page.resource_link | escape }}</a>
-
-        {% if page.resource_type.size > 0 %}
-        <div class="resource-type">
-            Resource Type:
-            <ul>
-                {% for type in page.resource_type%}
-                <li>{{type}}</li>
-                {% endfor %}
-            </ul>
-        </div>
-        {% endif %}
-
-        {% if page.climate_topics.size > 0 %}
-        <div>
-            Climate Topics:
-            <ul>
-                {% for topic in page.climate_topics %}
-                <li>{{topic}}</li>
-                {% endfor %}
-            </ul>
-        </div>
-        {% endif %}
-
-        {% if page.polar_topics.size > 0 %}
-        <div>
-            Polar Topics:
-            <ul>
-                {% for topic in page.polar_topics %}
-                <li>{{topic}}</li>
-                {% endfor %}
-            </ul>
-        </div>
-        {% endif %}
-
-        {% if page.audience.size > 0 %}
-        <div>
-            Audience:
-            <ul>
-                {% for audience_type in page.audience %}
-                <li>{{audience_type}}</li>
-                {% endfor %}
-            </ul>
-        </div>
-        {% endif %}
-
     </header>
 
-    <div class="resource-content">
-        {{ content }}
+
+    <div class="resource-content row">
+        <div class="col-md-8">
+            {{ content }}
+        </div>
+
+        <div class="col-md-4">
+            {% if page.resource_type.size > 0 %}
+            <div class="resource-type">
+                Resource Type:
+                <ul>
+                    {% for type in page.resource_type%}
+                    <li>{{type}}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+            {% if page.climate_topics.size > 0 %}
+            <div>
+                Climate Topics:
+                <ul>
+                    {% for topic in page.climate_topics %}
+                    <li>{{topic}}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+            {% if page.polar_topics.size > 0 %}
+            <div>
+                Polar Topics:
+                <ul>
+                    {% for topic in page.polar_topics %}
+                    <li>{{topic}}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+
+            {% if page.audience.size > 0 %}
+            <div>
+                Audience:
+                <ul>
+                    {% for audience_type in page.audience %}
+                    <li>{{audience_type}}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            {% endif %}
+        </div>
+
     </div>
 
 </article>
