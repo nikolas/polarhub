@@ -235,7 +235,24 @@ if (typeof require === 'function') {
                     }
                 });
 
-                search.doSearch(['','','']);
+                // Capture a query string param, if there is one, and search it
+                var queryString = window.location.search.replace(/^\?/, '');
+                var searchString = '';
+                if (queryString) {
+                    var params = queryString.split('&');
+
+                    params.forEach(function(el) {
+                        var splitParam = el.split('=');
+                        if (splitParam[0] == 'q') {
+                            searchString = splitParam[1];
+                        }
+                    });
+
+                    $('#q').val(searchString)
+                    window.history.replaceState(null, '', window.location.pathname);
+                }
+
+                search.doSearch([searchString,'','']);
                 refreshEvents(search.results, 1);
 
                 $('#clear-search').click(clearSearch);
