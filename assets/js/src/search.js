@@ -248,7 +248,7 @@ if (typeof require === 'function') {
                         }
                     });
 
-                    $('#q').val(searchString)
+                    $('#q').val(searchString);
                     window.history.replaceState(null, '', window.location.pathname);
                 }
 
