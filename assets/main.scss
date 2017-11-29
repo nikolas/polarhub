@@ -123,3 +123,16 @@ div.container.core-project {
         margin: 0 0 3em 3em;
     }
 }
+
+#loader-animation-container
+{
+	height: 200px;
+	background-color: white;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+    .ball-pulse > div { background-color: #666; }
+}
+

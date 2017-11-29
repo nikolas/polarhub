@@ -180,8 +180,14 @@ if (typeof require === 'function') {
 
     if (typeof document === 'object') {
         $(document).ready(function() {
+            var loaderAnimation = '<div id="loader-animation-container" class="col-12">' +
+                                  '<div class="loader-inner ball-pulse"><div></div><div></div><div></div></div>' +
+                                  '</div>';
+
+            $('#search-results').append(loaderAnimation);
             var path = window.location.pathname.replace(/database\/$/, '');
             $.getJSON(path + 'resources.json').done(function(items) {
+                $('#loader-animation-container').fadeOut('slow');
                 var climateTopics = [];
                 var polarTopics = [];
                 var resourceType = [];
