@@ -13,5 +13,5 @@ the Hub provides information on educational resources focused on polar
 climate change, including the games, activities, and other innovative
 tools developed by the PoLAR Partnership. 
 
-![Photo of ReAC Camp]({{ "/files/ReAC_PlayingEcoChains cropped.jpg" | relative_url }})
+<img src="{{ '/files/ReAC_PlayingEcoChains cropped.jpg' | relative_url }}" alt="Photo of ReAC Camp" class="img-fluid" />
 This is a photo of text that I am still waiting to receive; name, name, name at ReAC camp in Alaska as part of the PoLAR project playing EcoChains.
