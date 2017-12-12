@@ -12,7 +12,7 @@ permalink: /core_projects/ecochains.html
 
 The Arctic is a special place that's full of unique animals who depend on sea ice to live. It's also one of the fastest changing places on Earth. How do these changes affect the ecosystem, what can the animals do to survive, and how can you help?
 
-EcoChains: Arctic Crisis is a fun and easy-to-learn card game for all ages. In this 2-4 player game of strategy and survival, players build an Arctic marine food web, learn about the importance of sea ice, and see the potential impact of future changes on the ecosystem.
+*EcoChains: Arctic Crisis* is a fun and easy-to-learn card game for all ages. In this 2-4 player game of strategy and survival, players build an Arctic marine food web, learn about the importance of sea ice, and see the potential impact of future changes on the ecosystem.
 
 **What players are saying:**
 *“I was amazed by how interconnected the entire system of Arctic species are, and realized how much would be affected by just a few minor changes.”*
@@ -21,16 +21,23 @@ EcoChains: Arctic Crisis is a fun and easy-to-learn card game for all ages. In t
 lllustrations by Bree Westphal; design by Eduard Matamoros.
 
 **Resources for Educators:**
-Quick guides for using EcoChains in classroms and other learning spaces:
-- [EcoChains-HS-Classroom-QuickGuide.pdf]({{ "/files/EcoChains-HS-Classroom-QuickGuide.pdf" | relative_url }})
-- [EcoChains-MS-Classroom-QuickGuide.pdf]({{ "/files/EcoChains-MS-Classroom-QuickGuide_0.pdf" | relative_url }})
+Quick guides for using *EcoChains* in classroms and other learning spaces:
+- [EcoChains-HS-Classroom-QuickGuide-NGSS.pdf]({{ "/files/EcoChains-HS-Classroom-QuickGuide.pdf" | relative_url }})
+- [EcoChains-MS-Classroom-QuickGuide-NGSS.pdf]({{ "/files/EcoChains-MS-Classroom-QuickGuide_0.pdf" | relative_url }})
 - [EcoChains-NCA-QuickGuide.pdf]({{ "/files/EcoChains-NCA-QuickGuide.pdf" | relative_url }})
 
 Starter game instructions:
 - [EcoChains-QuickStart-GamePlay.pdf]({{ "/files/EcoChains-QuickStart-GamePlay_0.pdf" | relative_url }})
 
-Compainion article:
+*EcoChains* species information sheets:
+- [PolarBear.pdf]({{ "/files/polarbear.pdf" | relative_url }})
+- [Beluga.pdf]({{ "/files/beluga.pdf" | relative_url }})
+- [Narwhal.pdf]({{ "/files/narwhal.pdf" | relative_url }})
+- [Walrus.pdf]({{ "/files/walrus.pdf" | relative_url }})
+
+Companion article:
 - [EcoChains-CompanionArticle.pdf]({{ "/files/EcoChains-CompanionArticle.pdf" | relative_url }})
+- [*Arctic Matters: The Global Connection to Changes in the Arctic*]( http://nas-sites.org/arctic/files/2015/06/Arctic_Matters-booklet.pdf ) © 2015, by the National Academy of Sciences
 
 **Organization Name:**  
 Barnard College  
